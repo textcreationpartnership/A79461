@@ -1,0 +1,1266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The watch charged. Or, a warning to God's watch-men. Being a sermon preached at Bridge-water in the county of Somerset on the 29. day of September 1658. which was a day set apart for ordination, and the generall meeting of the associated ministers in that county. / By John Chetwind, Mr. of Arts, preacher of the gospel, and one of the joynt-pastors for the city and parish of Cuthberts in Wells.</title>
+            <author>Chetwynd, John, 1623-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79461</idno>
+            <idno type="STC">Wing C3798</idno>
+            <idno type="STC">Thomason E1862_1</idno>
+            <idno type="STC">ESTC R210179</idno>
+            <idno type="EEBO-CITATION">99868999</idno>
+            <idno type="PROQUEST">99868999</idno>
+            <idno type="VID">170481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170481)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 232:E1862[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The watch charged. Or, a warning to God's watch-men. Being a sermon preached at Bridge-water in the county of Somerset on the 29. day of September 1658. which was a day set apart for ordination, and the generall meeting of the associated ministers in that county. / By John Chetwind, Mr. of Arts, preacher of the gospel, and one of the joynt-pastors for the city and parish of Cuthberts in Wells.</title>
+                  <author>Chetwynd, John, 1623-1692.</author>
+               </titleStmt>
+               <extent>[8], 88 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Roger Daniel, and are to be sold by Edward Brewster at the sign of the Crane in Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 11"; also the last number of the imprint date has been marked through and replaced with an "8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezekial III, 17 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170481:1" rendition="simple:additions"/>
+            <p>THE WATCH CHARGED. OR, A Warning to GOD'S WATCH-MEN. Being a Sermon preached at <hi>Bridge-water</hi> in the County of <hi>Somerſet</hi> on the 29. Day of <hi>September</hi> 1658. which was a day ſet apart for Ordination, and the generall meeting of the Aſſociated Miniſters in that County.</p>
+            <p>By JOHN CHETWIND, M<hi rend="sup">r</hi>. of Arts, Prea<g ref="char:EOLhyphen"/>cher of the Goſpel, and one of the joynt-Paſtors for the City and Pariſh of <hi>Cuthberts</hi> in <hi>Wells.</hi>
+            </p>
+            <q>
+               <bibl>2 Tim. 4.1,2.</bibl>
+               <p>
+                  <hi>I charge thee therefore before God and the Lord Ieſus Christ, who ſhall judge the quick and the dead at his appearing and his Kingdome,</hi>
+               </p>
+               <p>
+                  <hi>Preach the Word, be inſtant, in ſeaſon, out of ſeaſon; reprove, rebuke, exhort with all long-ſuffering and doctrine.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by ROGER DANIEL, and are to be ſold by <hi>Edward Brewſter</hi> at the ſign of the <hi>Crane</hi> in <hi>Paul</hi>'s Church-yard. 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170481:2"/>
+            <pb n="3" facs="tcp:170481:2"/>
+            <head>Reverendis Chriſti Mi<g ref="char:EOLhyphen"/>niſtris &amp; ſpeculatoribus ſol<g ref="char:EOLhyphen"/>licitis in Comitatu <hi>Somerſettenſi</hi> conſtitutis, &amp; (quo melius pro ſalute animarum ex<g ref="char:EOLhyphen"/>cubias agant) ibidem conſociatis.</head>
+            <p>
+               <seg rend="decorInit">Q</seg>Vo vos candore (Reverendi Patres &amp; Fratres) ſubſe<g ref="char:EOLhyphen"/>quentia haec <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> audivi<g ref="char:EOLhyphen"/>ſtis nuper pro concione prola<g ref="char:EOLhyphen"/>ta eodem obnixe rogo accipiatis exara<g ref="char:EOLhyphen"/>ta, &amp; in lucem edita. Neque enim au<g ref="char:EOLhyphen"/>ſus eſſem minutula haec (novi enim quicquid in me eſt quam ſit exiguum) utcunque in aurem dicta &amp; frequenti coetu praedicata, in aſpectum etiam pro<g ref="char:EOLhyphen"/>tuliſſe, niſi vehementius auditorum quorundam deſiderium, &amp; nonnullo<g ref="char:EOLhyphen"/>rum è vobis conſenſus acceſsiſſet, ani<g ref="char:EOLhyphen"/>mumque
+<pb facs="tcp:170481:3"/> mihi addidiſset ut in publicum prodirent.</p>
+            <p>Non diffiteor tamen facilem me ami<g ref="char:EOLhyphen"/>corum votis aurem praebuiſſe, partim quidem quia paraenetica haec ea ſint viſa quae ministerii candidatos (in quorum gratiam parata ſunt) aliquantulum poſsint adjuvare: praecipue vero (&amp; quod prae aliis omnibus animum mihi ad ſcrib ndum impulit) ut publicum gratitudinis meae erga Deum Opt. Max. extaret monumentum.</p>
+            <p>Siquidem non neſcii eſtis inter vos plurimi ex quali &amp; quanto malorum labyrintho ſolius Dei manu erepta eſt a<g ref="char:EOLhyphen"/>nima mea, quae longa laborabat <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (neque enim pudet dicere quod ſapienti Deo viſum eſt facere) cumque à morbo hoc phrenetico reſpirare coeperam, ſuc<g ref="char:EOLhyphen"/>ceſsit ilico &amp; pluribus me menſibus obſeſſum tenuit graviſsima melancho<g ref="char:EOLhyphen"/>lia, &amp; torpor quaſi lethargicus. Duris hiſce (attamen Patris) probationibus diutius detentus plurima feci indigna, &amp; dignatuli. Tandem vero precibus veſtris, &amp; plurimarum Dei Eccleſia<g ref="char:EOLhyphen"/>rum,
+<pb facs="tcp:170481:3"/> uſque ad miraculum reſtitutus ſum, &amp; menti, &amp; memoriae, &amp; officio in Eccleſia Dei; ſit Deo Trinuni in ae<g ref="char:EOLhyphen"/>ternum gloria. Cum itaque quod ceci<g ref="char:EOLhyphen"/>nit Pſalmiſta ſaepius &amp; m rito in animo verſatur, <note place="margin">Pſ. 116 12.</note> 
+               <hi>Quid retribuam?</hi> occurrit ſubinde graviſsimum ſalvatoris moni<g ref="char:EOLhyphen"/>tum, <note place="margin">Luc. 22.32.</note> 
+               <hi>Tu aliquando converſus con<g ref="char:EOLhyphen"/>firma fratres tuos.</hi> Quod ut facerem, anſam exhortandi fratres à vobis obla<g ref="char:EOLhyphen"/>tam libenter arripui, &amp; Spartam hanc nactam viribus queis poteram ornavi.</p>
+            <p>I am vero quid restat, quin ut me<g ref="char:EOLhyphen"/>met vobis (Chariſsimi Fratres) in ex<g ref="char:EOLhyphen"/>emplum proponam, tum divinae ſeveri<g ref="char:EOLhyphen"/>tatis, tum divinae <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Severitatis inquam, quae ob incuria<g ref="char:cmbAbbrStroke">̄</g>, negligentiam, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſuperbiam &amp; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, aliaque id genus peccata, me graviſsime afflictum dederat; &amp; haec erat debit a poena. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> etiam, qua<g ref="char:cmbAbbrStroke">̄</g> ex mero be<g ref="char:EOLhyphen"/>nevolentiae ſuae motu, &amp; ſua ſola manu ereptum me mihi reddidit; &amp; haec e<g ref="char:EOLhyphen"/>rat indebita gratia. Ita ut veriſsimum divinum illud expertus ſum Oraculum, <note place="margin">Pſ. 89.31,32.</note> 
+               <hi>Si ſtatuta mea profanaverint, &amp; prae<g ref="char:EOLhyphen"/>cepta
+<pb facs="tcp:170481:4"/> mea non obſervaverint, viſita<g ref="char:EOLhyphen"/>bo quidem virga defectionem corum, &amp; plagis Iniquitatem eorum. Sed benignitatem meam non irritam fa<g ref="char:EOLhyphen"/>ciam ab eo, neque mentiar contra fi<g ref="char:EOLhyphen"/>dem meam: non profanaho fedus meum, &amp; pronunciatum labiorum meorum non mutabo.</hi>
+            </p>
+            <p>Quapropter velim (O Chariſsimi Fratres) ut meo diſcatis exemplo: ideo<g ref="char:EOLhyphen"/>que ut <hi>Funccius</hi> ille Chronologus olim ob laeſam incaute majeſtatem jamjam ſuſpendendus circumſtantem monuit coronam,
+<q>
+                  <hi>Diſce meo exemplo mandato mu<g ref="char:EOLhyphen"/>nere fungi,</hi>
+               </q> ſic ipſe Ego (Fratres) divinam ob pecca<g ref="char:EOLhyphen"/>ta praedict a expertus iram, ſerio vos ob<g ref="char:EOLhyphen"/>testor, ut tanquam pestem pernicioſiſsi<g ref="char:EOLhyphen"/>mam fugeretis negligentiam, ſuperbi<g ref="char:EOLhyphen"/>am, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. &amp; totis viribus mini<g ref="char:EOLhyphen"/>ſteriali incumberetis operi; conſilio ob<g ref="char:EOLhyphen"/>temperantes Pſalmistae, <note place="margin">Pſal. 2.11. Heb. 12.29.</note> 
+               <hi>Colite Ieho<g ref="char:EOLhyphen"/>vam eum reverentia, &amp; exultate cum tremore; Deus enim noſter ignis eſt conſumens.</hi>
+            </p>
+            <pb facs="tcp:170481:4"/>
+            <p>Quid vero à nobis Speculatorum titulo inſignitis ſummus Eccleſiae mode<g ref="char:EOLhyphen"/>rator exigit, ex ſequentibus pro mo<g ref="char:EOLhyphen"/>dulo meo innoteſcet: vigiles conſtituti ſumus, excubias agamus ſedulo, monea<g ref="char:EOLhyphen"/>mus fideliter, ne ſanguis pereuntium in noſtra redeat capita.</p>
+            <p>
+               <hi>Evenium</hi> quendam ovium paſtorem ob amiſſa pecora obcoecatum legimus.</p>
+            <p>Quid fiet nobis ob animas nostra in<g ref="char:EOLhyphen"/>curia perditas?</p>
+            <p>Quia igitur <note place="margin">2 Cor. 5.11.</note> 
+               <hi>novimus terrorem il<g ref="char:EOLhyphen"/>lum Domini noſtri,</hi> filiis hominum ut ſpeculatores Dei ſuademus; <note place="margin">Acts 20.28,30.</note> 
+               <hi>Attenda<g ref="char:EOLhyphen"/>mus igitur nobis ipſis &amp; toti gregi, in quo conſtituit nos Spiritus Sanctus Epiſcopos, ut paſcamus Eccleſiam Chriſti quam acquiſivit ſanguine ſuo:</hi> Illud ſaepius memoria recolentes, Apo<g ref="char:EOLhyphen"/>ſtolum nocte &amp; die <hi>non ceſſaſſe cum lacrymis admonere unumquemque.</hi>
+            </p>
+            <p>Libentius haec ex ſacra pagina &amp; mihi &amp; vobis (Reverendi Patres &amp; Fratres) ob oculos propoſui, utpote vo<g ref="char:EOLhyphen"/>bis (ſat ſcio) non minus grata quam nobis omnibus neceſſaria.</p>
+            <pb facs="tcp:170481:5"/>
+            <p>Pluribus ſuperſedeo, ne peranguſtae (quod aiunt) civitati patentior praeſtru<g ref="char:EOLhyphen"/>atur porta.</p>
+            <p>Quod ſupereſt, Fratres, <hi>Commen<g ref="char:EOLhyphen"/>do vos Deo, &amp; ſermoni gratiae ipſius qui poteſt aedificare vos, &amp; dare vo<g ref="char:EOLhyphen"/>bis haereditatem cum omnibus San<g ref="char:EOLhyphen"/>ctis;</hi>
+            </p>
+            <p>Qui etiam coitionem veſtram in ti<g ref="char:EOLhyphen"/>more Domini ſuſceptam, &amp; coadunatos in Dei gloriam &amp; populi ſalutem cona<g ref="char:EOLhyphen"/>tus, indies magis magiſque augeat, be<g ref="char:EOLhyphen"/>nedicat, &amp; proſperis in aeternum coro<g ref="char:EOLhyphen"/>net ſucceſsibus. Haec praecatur</p>
+            <closer>
+               <dateline>E Muſaeo meo <date>9. Nov. 1658.</date>
+               </dateline>
+               <signed>E veſtro numero ſymmiſta, con<g ref="char:EOLhyphen"/>ſervus, vobiſque omnibus devotiſſimus, JOH. CHETWIND, Paſtor <hi>Wellenſis</hi> in agro <hi>Somerſettenſi.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:170481:5"/>
+            <head>IMMANUEL.</head>
+            <epigraph>
+               <q>
+                  <bibl>Ezek. 3.17.</bibl>
+                  <p>
+                     <hi>Son of man, I have made thee a watch-man unto the houſe of Iſ<g ref="char:EOLhyphen"/>rael; therefore hear the word at my mouth, and give them warning from me.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He occaſion directs my diſ<g ref="char:EOLhyphen"/>courſe, and the words read ſhall limit it: the time prevents leſſe neceſſary excurſions. Only by way of Introdu<g ref="char:EOLhyphen"/>ction I ſhall mind you,</p>
+            <p>That though this work were farre fitter for a graver head, and a more experienced heart, then for my ſelf; who for ſome perſonall conſiderati<g ref="char:EOLhyphen"/>ons, not unknown to many, have more need to mourn in ſecret, then to appear in publick; to learn in ſi<g ref="char:EOLhyphen"/>lence,
+<pb n="2" facs="tcp:170481:6"/> then undertake to inſtruct in<g ref="char:EOLhyphen"/>ſtructours; yet being deſign'd here<g ref="char:EOLhyphen"/>unto by my Reverend Brethren, I ſhall endeavour with what faithful<g ref="char:EOLhyphen"/>neſſe God ſhall inable me to diſ<g ref="char:EOLhyphen"/>charge their truſt, and ſhall only by way of preface earneſtly deſire you, Reverend Fathers and Brethren, to expect and receive what ſhall be ſpo<g ref="char:EOLhyphen"/>ken, not as curious ears do harmo<g ref="char:EOLhyphen"/>nious ſounds, to pleaſe for the pre<g ref="char:EOLhyphen"/>ſent; but as patients do the advices and preſcriptions of Phyſicians, to follow them for the future, as occaſi<g ref="char:EOLhyphen"/>on ſhall be given.</p>
+            <p>And though my work be an ex<g ref="char:EOLhyphen"/>hortation, yet knowing that it is one of the principall methods of ſeducers to perſwade firſt, and afterwards to inſtruct, which (by reaſon of our cor<g ref="char:EOLhyphen"/>ruption) is prevalent to pervert; and that it is Gods way, firſt to inſtruct, and then perſwade: the only courſe like to prevail to durable good (per<g ref="char:EOLhyphen"/>ſwaſions without inſtructions being but as fire in ſtraw, that ſoon flames,
+<pb n="3" facs="tcp:170481:6"/> and ſoon is extinguiſht; but when uſhered in by inſtruction, like fire in hard wood, though longer kindling, yet longer laſting.) I ſhall therefore give you firſt the doctrinall part of this Scripture, and then improve it by application.</p>
+            <p>In the which we have</p>
+            <p>For the ſenſe, no difficulty that might ſtop us in our paſſage.</p>
+            <p>For the Analyſis, no intricacy; the words on the firſt view reſolving themſelves into theſe two parts.
+<list>
+                  <item>1. The prophets office, a watch-man.</item>
+                  <item>2. The prophets furniture, and fit<g ref="char:EOLhyphen"/>ting to and for that office: In which
+<list>
+                        <item>1. His Commiſſion, I have made, <hi>&amp;c.</hi>
+                        </item>
+                        <item>2. His inſtructions.
+<list>
+                              <item>1. Hear from my mouth.</item>
+                              <item>2. Warn them from me.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>For the various reading of that
+<pb n="4" facs="tcp:170481:7"/> word which our Tranſlation renders <hi>[warn]</hi> I ſhall refer you unto Dr. <hi>Waltons Biblia Polyglotta,</hi> the reſult of all which amounts to thus much.</p>
+            <p>Son of man, I have made thee my officer and Deputy, the Churches Watch-man, overſeer and teacher; and therefore hear from me, and in my name, in my ſtead, and by my authority, ſpeak to them, warn them of their danger, admoniſh them of their duty, declare my mind, exhort them to the practiſe of it, and preſſe them to it with the diſcovery of my threatning, and their danger in the neglect of it.</p>
+            <p>Now I ſhall not conſider the words diſtinctly, according unto their fore-mentioned parts; each of which would afford many uſefull in<g ref="char:EOLhyphen"/>ſtructions: but only in generall, in reference to my preſent work, having made choice of this Scripture to bound my meditations, and found the following exhortation upon; and that in this method, by ſhewing from the Text,
+<pb n="5" facs="tcp:170481:7"/>
+               <list>
+                  <item>1. That miniſters are Watch<g ref="char:EOLhyphen"/>men.</item>
+                  <item>2. What is required in and from ſuch by vertue of that relation.</item>
+               </list>
+            </p>
+            <p>Now what a Watch-man is, whe<g ref="char:EOLhyphen"/>ther ciuill or military, there are few ignorant; and their office the Pro<g ref="char:EOLhyphen"/>phet ſhews, as in this, ſo in the 33. chapter of this propheſie from the firſt to the ſeventh verſe.</p>
+            <p>In Cities and camps watch men and ſentinels were uſually placed in ſome higher and eminent ſtation; <note place="margin">2 Sam. 18.24. 2 Kin. 9.17.</note> 
+               <hi>On the roof, on the tower,</hi> that thence they might ſee whether fire, or any enemy were likely to endanger, and thereof to give timely notice, either by trum<g ref="char:EOLhyphen"/>pet, bell, outcry, fire, or other ap<g ref="char:EOLhyphen"/>pointed ſign, that ſo the danger might be prevented: eſpecially in time of war ſuch were diligently to obſerve the preparation and appro<g ref="char:EOLhyphen"/>ches of the enemy, and to give war<g ref="char:EOLhyphen"/>ning thereof, that the City or camp might not be unexpectedly endama<g ref="char:EOLhyphen"/>ged.</p>
+            <pb n="6" facs="tcp:170481:8"/>
+            <p>To apply this then to our pur<g ref="char:EOLhyphen"/>poſe, <note place="margin">2 Tim. 6.12. Cant. 4.</note> the profeſſion of our Chriſtia<g ref="char:EOLhyphen"/>nity is a warfare, the Church of God a camp, terrible as an army with Ban<g ref="char:EOLhyphen"/>ners, every Chriſtian a militant ſoldi<g ref="char:EOLhyphen"/>er, fighting the good fight of faith againſt ſpirituall enemies, Ieſus Chriſt the <hi>Captain Generall,</hi> 
+               <note place="margin">Heb. 2.10.</note> on whom the care of the wellfare of the whole army reſteth, who out of his love and care towards it, hath and doth appoint his officers, his vicegerents, ſentinells and watch-men under him, to look to and take care of his camp.</p>
+            <p n="1">1. Such were
+<list>
+                  <item>1. The Prophets. <hi>Iſa.</hi> 52.8. <hi>Hab.</hi> 2.1.</item>
+                  <item>2. The Apoſtles. <hi>Acts</hi> 20.31.</item>
+               </list>
+            </p>
+            <p n="2">2. Such are ordinary paſtours and teachers, whom Chriſt aſcending on high hath bequeathed as his great le<g ref="char:EOLhyphen"/>gacy to his Church, with whom he promiſeth to be to the end of the world.</p>
+            <pb n="7" facs="tcp:170481:8"/>
+            <p>And that ordinary paſtours are ſuch, I ſhall only point you to that Scripture, Heb. 13.17. <hi>Obey them that have the rule over you, for they watch for your ſouls, as they that muſt give account; that they may doe it with joy, and not with grief: for that is un<g ref="char:EOLhyphen"/>profitable for you.</hi>
+            </p>
+            <p>True it is, that Ieſus Chriſt is the Churches chief watch-man, he that never ſlumbreth nor ſleepeth, <note place="margin">Heb. 13.12. 1 Pet. 2.25.</note> the great ſhepherd, the chief <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſpe<g ref="char:EOLhyphen"/>culator.</hi> But he being gone into a far countrey, having aſcended up on high, doth alwaies provide for his Churches wellfare, and therefore ſubſtitutes, <note place="margin">Eph. 4.8,11,12,13.</note> as his vicegerents, ordina<g ref="char:EOLhyphen"/>ry miniſters and paſtours to be his watch-men for the Churches good, unto the worlds end.</p>
+            <p n="2">2. What is required in and from ſuch by vertue of that relation.</p>
+            <p>And that which I ſhall ſpeak to you in opening of this, I ſhall give you in theſe particulars, unto which I con<g ref="char:EOLhyphen"/>ceive all things elſe may be reduced.</p>
+            <pb n="8" facs="tcp:170481:9"/>
+            <p>There are five principall requiſites in a civill Magiſtrate, and ſo much more in a ſpirituall watch-man. viz.
+<list>
+                  <item>1. Courage, an <hi>undaunted ſpi<g ref="char:EOLhyphen"/>rit.</hi>
+                  </item>
+                  <item>2. Underſtanding, <hi>a diſcove<g ref="char:EOLhyphen"/>ring eye.</hi>
+                  </item>
+                  <item>3. Prudence, <hi>a diſcreet tongue.</hi>
+                  </item>
+                  <item>4. Faithfulneſſe, <hi>an upright heart.</hi>
+                  </item>
+                  <item>5. Diligence, <hi>an active vigilan<g ref="char:EOLhyphen"/>cy.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Courage, fortitude, an un<g ref="char:EOLhyphen"/>daunted ſpirit; Thus ſhall we find God directing and fortifying <hi>Ezek.</hi> chap. 2.6. chap. 3.9. <note place="margin">Ezek. 2.6.</note> 
+               <hi>And thou ſon of man, be not afraid of them, neither be afraid of their words. Though briars and thorns be with thee, and though thou doſt dwell among ſcorpions, be not afraid of their words, nor be diſmayed at their looks, though they be a rebelli<g ref="char:EOLhyphen"/>ous houſe.</hi>
+            </p>
+            <p>
+               <note place="margin">chap. 3.8,9.</note> 
+               <hi>Behold, I have made thy face
+<pb n="9" facs="tcp:170481:9"/> ſtrong against their faces, and thy fore<g ref="char:EOLhyphen"/>head ſtrong againſt their foreheads.</hi>
+            </p>
+            <p>
+               <hi>As an adamant harder them flint have I made thy forehead; fear them not, nor be diſmayed at their looks, though they be a rebellious houſe.</hi>
+            </p>
+            <p>Chriſt is not willing that any of his ſouldiers, much leſſe his officers and watch-men, ſhould have their hearts diſtempered and diſtracted with fears and terrours: hence find we that, (whether precept or encourage<g ref="char:EOLhyphen"/>ment) <hi>Fear not,</hi> ſo often inculca<g ref="char:EOLhyphen"/>ted.</p>
+            <p>It being the firſt word in the firſt Annunciation of Chriſt his
+<list>
+                  <item>1. Conception, <hi>Luke</hi> 1.30.</item>
+                  <item>2. Birth, <hi>Luke</hi> 2.10.</item>
+                  <item>3. Reſurrection, <hi>Matth.</hi> 28.5.</item>
+               </list>
+            </p>
+            <p>And almoſt the laſt word of his laſt exhortation, a little before his death, <hi>Let not your hearts be troubled, and be of good comfort,</hi> Ioh. 14.1. and 16. chap. 33.</p>
+            <p>It's requiſite then, that as civill and military, ſo ſpirituall watch-men
+<pb n="10" facs="tcp:170481:10"/> (God's miniſters) ſhould be (as well as magiſtrates) men of courage, and that on theſe three reſpects, <hi>viz.</hi> Be<g ref="char:EOLhyphen"/>cauſe of
+<list>
+                  <item>1, Danger from the Enemy.</item>
+                  <item>2. Difficulty of their work.</item>
+                  <item>3. Diſregard from their friends.</item>
+               </list>
+            </p>
+            <p n="1">1. Danger from the Enemy.</p>
+            <p>We all know that the ſentinells, thoſe that lye perdue, the Scouts and Forlorn-hopes, in times of war are moſt in danger of the Enemy, as ly<g ref="char:EOLhyphen"/>ing neareſt, and moſt open to their approches: and ſo is it with Chriſt's miniſters, they are firſt ſtruck at.</p>
+            <p>They have moſt enemies, and their enemies malice is moſt againſt them.</p>
+            <p>That command given, <note place="margin">1 Kin. 22.31.</note> 
+               <hi>Fight not againſt ſmall nor great, &amp;c.</hi> is compa<g ref="char:EOLhyphen"/>ratively true in this caſe.</p>
+            <p>The Churches adverſaries princi<g ref="char:EOLhyphen"/>pall ſpight is againſt the Churches watch-men.</p>
+            <p>This the experience of all per<g ref="char:EOLhyphen"/>ſecutions
+<pb n="11" facs="tcp:170481:10"/> have made good.</p>
+            <p>This the experience of our times verify; Now then if they are expo<g ref="char:EOLhyphen"/>ſed to the greateſt dangers, is it not reaſon they ſhould have the greateſt courage.</p>
+            <p>Ther's many an <hi>Ahab</hi> will frown upon a faithfull preacher, and had they had the power, <note place="margin">Eſt. 7.9</note> would doe for them as <hi>Haman</hi> did for <hi>Mordecai;</hi> and <hi>Francis</hi> the firſt of <hi>France,</hi> for <hi>Charls</hi> the fifth his Ambaſſadour, even ſet up a Gibbet for them.</p>
+            <p>
+               <hi>Nemo attingat hujus muneris fun<g ref="char:EOLhyphen"/>ctionem, niſi paratus ſit millies animam ſuam in mortem tradere.</hi>
+            </p>
+            <p n="2">2. Difficulty of their work.</p>
+            <p>Ther's a great deal of hardſhip to be endured by civill and military watch-men, <note place="margin">Gen. 31.40.</note> night and day, cold and heat, wet and dry.</p>
+            <p>Thus it is with ſpirituall watch-men.</p>
+            <p>They that think the miniſteriall la<g ref="char:EOLhyphen"/>bour to be an eaſy and ſlight work, know not what it is.</p>
+            <pb n="12" facs="tcp:170481:11"/>
+            <p>They that are acquainted with it, cry out, <note place="margin">2 Cor. 2.16.</note> 
+               <hi>who is ſufficient?</hi>
+            </p>
+            <p>And indeed did not Chriſt help with us, our ſhoulders were never a<g ref="char:EOLhyphen"/>ble to bear that burthen.</p>
+            <p>
+               <hi>Paul</hi> tells us <note place="margin">Eph. 4.11</note> that Chriſt gave Pa<g ref="char:EOLhyphen"/>ſtours for the <hi>work of the miniſtry.</hi> Now as the word <hi>[miniſtry]</hi> forbids lording: ſo the word <hi>[work]</hi> for<g ref="char:EOLhyphen"/>bids loitering.</p>
+            <p>
+               <hi>Iacob</hi>'s ſpeech of himſelf ſhews us that a watch-mans employment, though it be but over ſheep, is no ea<g ref="char:EOLhyphen"/>ſy work, much more then, our ſouls.</p>
+            <p>
+               <note place="margin">Gen. 31.40.</note> 
+               <hi>I was in the day conſumed with the heat, and with froſt in the night, and my ſleep departed from mine eyes.</hi>
+            </p>
+            <p>There was in him, and muſt be in miniſters <note place="margin">Iſa. 21.8.</note>
+               <list>
+                  <item>1. Aſſiduity, night and day.</item>
+                  <item>2. Patience, heat and froſt.</item>
+                  <item>3. Sollicitouſneſſe, ſleep went from his eyes.</item>
+               </list>
+            </p>
+            <p n="3">3. Diſregard from friends.</p>
+            <p>Even from thoſe they watch over.</p>
+            <pb n="13" facs="tcp:170481:11"/>
+            <p>Ther's not only oppoſition from the Devill, and the world a forreign force, but from mutineers amongſt our ſelves, the repulſing, reſiſting, and refuſing to be warned.</p>
+            <p>How many ſad complaints have God's watch-men made! <note place="margin">Iſa. 49.4.</note> 
+               <hi>I have la<g ref="char:EOLhyphen"/>boured in vain, I have ſpent my ſtrength for nought, and in vain.</hi>
+            </p>
+            <p>
+               <note place="margin">Iſa. 53.1.</note> 
+               <hi>Who hath believed our report, and to whom hath the arm of the Lord been revealed?</hi>
+            </p>
+            <p>
+               <note place="margin">Jer. 20.7,8.</note> 
+               <hi>I am in deriſion daily, every one mocketh me. The word of the Lord was made unto me a reproch and deriſion daily.</hi>
+            </p>
+            <p>Yea our Saviour complains, <note place="margin">Iohn. 1.11.</note> that he <hi>came unto his own, and his own re<g ref="char:EOLhyphen"/>ceived him not:</hi> and hence thoſe tears, <note place="margin">Luk. 19.41.</note> when he wept over <hi>Hieruſalem,</hi> for her not underſtanding the things of her peace.</p>
+            <p>Now have not God's miniſters need of courage, that they may meet with and overcome all the oppoſiti<g ref="char:EOLhyphen"/>ons they ſhall have in the way of their employment.</p>
+            <pb n="14" facs="tcp:170481:12"/>
+            <p>The enemies are many, their work is hard, their diſcouragements great.</p>
+            <p>They muſt as thoſe that repaired the walls of <hi>Hieruſalem,</hi> have their ſwords in one hand, and therefore need as our prophet to have <note place="margin">Ezek. 3.9.</note> 
+               <hi>adaman<g ref="char:EOLhyphen"/>tine faces,</hi> that they may doe that which <hi>Paul</hi> commands <hi>Timothy,</hi> 
+               <note place="margin">2 Tim. 4.5.</note> even <hi>watch in all things, endure afflictions, &amp;c.</hi> intimating hereby what mini<g ref="char:EOLhyphen"/>ſters muſt expect in the doing their work, no other but what ſheep and lambs find amongſt wolves. <note place="margin">Mat. 10.16.23. c, 34.</note>
+            </p>
+            <p>They that enter this calling, <note place="margin">2 Cor. 11.26.27.</note> muſt reſolve with <hi>Paul</hi> to be in deaths of<g ref="char:EOLhyphen"/>ten, diſgraces, reproches, perſecuti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>If they ſaid <hi>Iohn</hi> hath a Devil, <note place="margin">Mal. 11.18,19.</note> Chriſt was a wine-bibber, what may not Chriſt's miniſters expect.</p>
+            <p>It being (as <hi>Luther</hi> ſpeaks) to preach the Goſpel (as it ought to be preached, to ſtir up all the furies of hell againſt us.</p>
+            <p>And therefore ſuch of all men have
+<pb n="15" facs="tcp:170481:12"/> moſt need of reſolution and forti<g ref="char:EOLhyphen"/>tude, to tread under feet all oppoſiti<g ref="char:EOLhyphen"/>ons.</p>
+            <q>
+               <l>
+                  <hi>Contemptus eſt à me Romanus favor &amp; furor.</hi>
+               </l>
+               <l>
+                  <hi>Spernere mundum, ſpernere nul<g ref="char:EOLhyphen"/>lum, ſpernere ſeſe,</hi>
+               </l>
+               <l>
+                  <hi>Spernere ſe ſperni; Quatuor iſta beant.</hi>
+               </l>
+            </q>
+            <p n="2">2. Underſtanding, <hi>a diſcerning eye.</hi>
+            </p>
+            <p>For how can they warn others of that they are themſelves ignorant of; how can they teach others, what they themſelves know not?</p>
+            <p>We find in ſacred Hiſtory, that they who were placed as military watch-men were diſcerning men. <note place="margin">2 Sam. 18.27. 2 Kin. 9.20.</note> One knows at a diſtance the running of <hi>Ahimaaz,</hi> another the driving of <hi>Iehu.</hi>
+            </p>
+            <p>And ſhall not Gods watch-men then, who are the light of the world, ſhall not they be as of old, <note place="margin">1 Sam. 9.9.</note> they were called <hi>ſeers.</hi>
+            </p>
+            <p>
+               <note place="margin">Acts 20.28.</note> 
+               <hi>Epiſcopus eſt oculus Eccleſiae;</hi> yea
+<pb n="16" facs="tcp:170481:13"/> the Churches overſeer, &amp; ſhall he be blind? nay rather, he ought to be as thoſe beaſts about the throne <hi>full of eyes;</hi> 
+               <note place="margin">Rev. 4.6</note> leaſt being blind, God call for the beaſts of the field, and the forreſt to devour them. <hi>Iſa.</hi> 56.9,10.</p>
+            <p>Now there are three things that watch-men, eſpecially ſuch that are not only ſeers, but ouerſeers, are to diſcern:
+<list>
+                  <item>1. The ſtrength, ſtratagems and approches of the enemy.</item>
+                  <item>2. The weakneſſe, danger, and in<g ref="char:EOLhyphen"/>firmities of their charge.</item>
+                  <item>3. The courſe to diſappoint the e<g ref="char:EOLhyphen"/>nemy, and the way to ſecure their charge.</item>
+               </list>
+            </p>
+            <p>If we know not all theſe, we ſhall make but bad watch men.</p>
+            <p n="1">1. The ſtrength, ſtratagems and approches of the enemy.</p>
+            <p>This <hi>Paul</hi> knew, <note place="margin">2 Cor. 2.11.</note> when he tells us, <hi>we are not ignorant of his devi<g ref="char:EOLhyphen"/>ces.</hi>
+            </p>
+            <p>Our ſpirituall adverſaries can put
+<pb n="17" facs="tcp:170481:13"/> on diſguiſes; and therefore we had need know them, that as the Prophet did <hi>Ieroboam</hi>'s wife, <note place="margin">1 Kin. 14.6.</note> we may call them by their own names, leaſt (as the <hi>Sara<g ref="char:EOLhyphen"/>cens</hi> in the ſlain <hi>French</hi> mens attire, had like to have ſurpriſed <hi>Damiata</hi>) <note place="margin">
+                  <hi>Knowls</hi> Turk. Hiſt. p. 105.</note> ſo Satans temptations diſguiſed by plauſible appearances, prevail for an uncontrouled entertainment.</p>
+            <p n="2">2. The dangers, weakneſſes and in<g ref="char:EOLhyphen"/>firmities, the eſtate and condition of their own charge. How elſe can pro<g ref="char:EOLhyphen"/>viſion be made for them, if we are un<g ref="char:EOLhyphen"/>acquainted with their conditions?</p>
+            <p>How can a Phyſician preſcribe to a patient, whoſe diſeaſe he knows not?</p>
+            <p>What advice can a Lawyer give in a caſe he is ignorant of?</p>
+            <p>Hence that counſel, <note place="margin">Prov. 27.23.</note> 
+               <hi>be thou diligent to know the ſtate of thy flocks, and look well to thy herds.</hi> This <hi>Paul</hi> did, <note place="margin">Phil. 2.19.</note> and therefore ſent <hi>Timothy</hi> to the <hi>Philip<g ref="char:EOLhyphen"/>pians, that he might know their ſtate.</hi>
+            </p>
+            <p n="3">3. The courſe to diſappoint the e<g ref="char:EOLhyphen"/>nemy, and the way to provide for their charges ſafety.</p>
+            <pb n="18" facs="tcp:170481:14"/>
+            <p>The Phyſician muſt know his Art as well as his Patients diſeaſe. The Counſeller muſt know the Law as well as his Clients caſe.</p>
+            <p>God's miniſters muſt know God's mind.</p>
+            <p>
+               <note place="margin">Mal. 2.7.</note> 
+               <hi>The Prieſts lips muſt preſerve know<g ref="char:EOLhyphen"/>ledge, and the people ſeek it at their mouth.</hi>
+            </p>
+            <p>Thus then (to mention no more) watch-men muſt be ſeers, have a diſ<g ref="char:EOLhyphen"/>cerning eye, be skilfull to judge ene<g ref="char:EOLhyphen"/>mies from friends, and friends from diſguiſed enemies, ſince Satan can transform himſelf into an Angel of light. <note place="margin">2 Cor. 11.14.</note>
+            </p>
+            <p>God's watch-men had need be quick-ſighted to diſcern his ſecrets, and diſcover them to their charges, as <hi>Elisha</hi> did the king of <hi>Arams</hi> to the king of Iſrael. <note place="margin">2 Kin. 6.</note>
+            </p>
+            <p>And therefore they muſt have eies, and eies open to look about them; whoſo have a charge committed to them, muſt not be as that man, who was <hi>here and there,</hi> 
+               <note place="margin">1 Kin. 20.40.</note> but take heed un<g ref="char:EOLhyphen"/>to
+<pb n="19" facs="tcp:170481:14"/> their charge, not ſhut, but keep their eies open. <note place="margin">Iſa, 56.10. Acts 20.28.</note> It was while the <hi>ſer<g ref="char:EOLhyphen"/>vant ſlept that the enemy ſowed tares.</hi> 
+               <note place="margin">Mat. 13.25.</note>
+               <q>
+                  <hi>Somnolentia paſtorum eſt gaudium luporum.</hi>
+               </q>
+            </p>
+            <p n="3">3. Prudence, <hi>a diſcreet tongue.</hi>
+            </p>
+            <p>Watch men do not alwayes and inopportunely make outcries, but in the proper time; firſt, diligently ob<g ref="char:EOLhyphen"/>ſerve what the enemy is endeavour<g ref="char:EOLhyphen"/>ing, what the adverſary is driving at, and then ſeaſonably acquaint the Ge<g ref="char:EOLhyphen"/>nerall, or the next officer, not the whole army; they do not beat an a<g ref="char:EOLhyphen"/>larme undiſcreetly: ſo muſt it be with God's watch-men, as they muſt have eyes to diſcern, ſo they muſt have diſ<g ref="char:EOLhyphen"/>cretion to declare; and that this is re<g ref="char:EOLhyphen"/>quiſite, <hi>Solomon</hi>'s example teacheth us, <note place="margin">Eccleſ. 12.10,11,12.</note> who <hi>becauſe the preacher was wiſe. he still taught the people knowledge; yea he gave good heed, and ſought out, and ſet in order many Proverbs. The Preacher ſought to find out acceptable words, and that which was written was upright, even words of truth;
+<pb n="20" facs="tcp:170481:15"/> and being ſuch, they were as goads and as nails fastned by the maſters of Aſ<g ref="char:EOLhyphen"/>ſemblies, which are given from one ſhepheard.</hi>
+            </p>
+            <p>This that precept to <hi>Timothy</hi> enfor<g ref="char:EOLhyphen"/>ceth, <note place="margin">2 Tim. 2.15.</note> 
+               <hi>ſtudy to ſhew thy ſelf approved un<g ref="char:EOLhyphen"/>to God, a workman that needeth not to be aſhamed, rightly dividing the word of truth, carving to each his portion,</hi> &amp; that cannot be without diſcretion.</p>
+            <p>
+               <hi>Rightly dividing,</hi> viz. not the word in reſpect of it ſelf into it's due logical Analyſis, but in reſpect of the perſons to whom the diviſion is to be made. It's an alluſion to the legal ſacrifices, ſome parts whereof were given to the Prieſt, other to the People. <note place="margin">Vide <hi>Leigh</hi> in locum.</note> 
+            </p>
+            <p>Now this diſcretion as in civil and military, ſo in ſpirituall Watchmen muſt appear in theſe three things.
+<list>
+                  <item>1. Warning ſeaſonably.</item>
+                  <item>2. Warning ſuitably.</item>
+                  <item>3. Warning ſeriouſly and affectio<g ref="char:EOLhyphen"/>nately.</item>
+               </list>
+            </p>
+            <p n="1">1. Warning ſeaſonably.</p>
+            <p>
+               <note place="margin">Iſa. 50.4.</note> 
+               <hi>Having the tongue of the learned,
+<pb n="21" facs="tcp:170481:15"/> that they may know how to ſpeak a word in ſeaſon to him that is weary.</hi>
+            </p>
+            <p>Such word being <hi>like apples of gold in pictures of ſilver.</hi> 
+               <note place="margin">Prov. 25.11.</note>
+            </p>
+            <p>Though it be not good Heraldry to lay metal upon metal, yet thus to <hi>tinne</hi> diſcourſe is a principal part of a preacher's prudence, who muſt give notice of ſins and errours that are ap<g ref="char:EOLhyphen"/>proaching, that they may be preven<g ref="char:EOLhyphen"/>ted, not ſuffer by their ſilence their charge firſt to be ſeduced or fall into ſin, and after endeavour to reclaim them, but give warning of the ene<g ref="char:EOLhyphen"/>my's coming before he comes.</p>
+            <p>
+               <hi>Abigail</hi> came to <hi>David</hi> in the due ſeaſon; <note place="margin">1 Sam. 25.32,33,34. Eccl. 3.11.</note> and in the due time <hi>every thing is beautifull.</hi>
+            </p>
+            <p>Miniſters ſhould be ſuch as the Children of <hi>Iſſachar,</hi> 
+               <note place="margin">1 Chr. 12.32.</note> which were men that <hi>had underſtanding of the times, to know what Iſrael ought to doe.</hi>
+            </p>
+            <p>To ſound an alarme at the ap<g ref="char:EOLhyphen"/>proach of friends, is to raiſe a com<g ref="char:EOLhyphen"/>buſtion, to be ſilent when enemies draw near is to betray the ſafety of the camp.</p>
+            <pb n="22" facs="tcp:170481:16"/>
+            <p n="2">2. Warning ſuita<g ref="char:EOLhyphen"/>bly, and that to their charges.
+<list>
+                  <item>1. Condition.</item>
+                  <item>2. capacity.</item>
+               </list>
+            </p>
+            <p n="1">1. Condition.</p>
+            <p>Making a difference, ſome muſt be pul'd out of the fire, ſtartled, rou<g ref="char:EOLhyphen"/>ſed, awaked, <note place="margin">Iude 22.23.</note> and <hi>on ſome have com<g ref="char:EOLhyphen"/>paſsion:</hi> as skilful Phyſicians know that the ſame ingredients are not fit for every ſickneſſe, and therefore ſo mix their potions as to remove the malignant humours of the particular diſeaſe; and as a wiſe Chirurgion doth not lay an healing plaiſter on a feſtred wound, but fits the ſalve unto the ſore, which would otherwiſe rather hurt then heal.</p>
+            <p>So do God's watchmen deal in their imploiment, <hi>Paul</hi> hath a rod for ſome, for others a ſpirit of meekneſs; Chriſt a <hi>woe be to you,</hi> to the Phariſees; a <hi>peace be to you,</hi> to his Diſciples.</p>
+            <p>Each muſt have his portion, howe<g ref="char:EOLhyphen"/>ver they like it.</p>
+            <p>If Preachers only float in generall notions, and never deſcend to ſuita<g ref="char:EOLhyphen"/>ble
+<pb n="23" facs="tcp:170481:16"/> and particular application, they will beat the aire.</p>
+            <p>It's beating the Pomander that makes it ſavoury: <note place="margin">Ioh. 5.35.</note> it's ſtriking the flint that makes it give fire.</p>
+            <p>We muſt not only be <hi>luciferi,</hi> but <hi>igniferi,</hi> light-bearers, but fire-bear<g ref="char:EOLhyphen"/>ers, rightly dividing &amp; cutting the loaf in peices, give every Child a portion, and his own portion. Not <hi>ſmite where God ſmiles nor flatter where God frownes.</hi>
+            </p>
+            <p>Gods ſong is as Davids <hi>mercy and judgment,</hi> 
+               <note place="margin">Pſal. 101.1.</note> &amp; they that ſing it muſt tune it rightly, giving each his due, Apply<g ref="char:EOLhyphen"/>ing generall doctrines to the particu<g ref="char:EOLhyphen"/>lar ſtate of the ſouls and conſciences of their hearers. As did Nathan to David <hi>thou art the man,</hi> 
+               <note place="margin">2 Sam. 12.17.</note> the prophet to Ahab, <hi>who tooke away his aſhes,</hi> 
+               <note place="margin">1 Kin. 20.41.</note> Peter to his hearers, <hi>whom yee have crucified,</hi> Iohn Baptiſt to <hi>Herod Non licet tibi,</hi> 
+               <note place="margin">Acts 2.</note> Paul to the Galatians <hi>O fooliſh Galatians who hath bewitched you?</hi>
+               <note place="margin">Gal. 3.1.</note> 
+            </p>
+            <p>Thus ſhall we be workmen that need not be aſhamed, <note place="margin">Luke 12.41.</note> if with that
+<pb n="24" facs="tcp:170481:17"/> faithfull ſteward we give each his portion.</p>
+            <p n="1">Conſider 1. the word is bread; now a whole loaf cannot feed us, and children cannot cut themſelves, and therefore preachers muſt not onely give the meaning by right expoſiti<g ref="char:EOLhyphen"/>on, but bring home the word by due application, that they may <hi>hear it, and know it for their good.</hi> 
+               <note place="margin">Neh. 8,8. Acts 8.31. Deut. 32.46,47. Iob 5.27</note>
+            </p>
+            <p n="2">2. Mens partiality corrupts their judgement, ſo that they underſtand not what's clearly delivered, if not particularly applyed, as <hi>David</hi> did not <hi>Nathan</hi>'s parable, till he told him <hi>thou art the man.</hi>
+            </p>
+            <p>And the woman of <hi>Samaria,</hi> till Chriſt came home to her, and told her what ſhe was.</p>
+            <p>And therefore God's watch men muſt convince, as <hi>Tamar</hi> did <hi>Iudah,</hi> 
+               <note place="margin">Gen. 38.25.</note> by plain tokens, not content them<g ref="char:EOLhyphen"/>ſelves with generall ſpeculations. <hi>Quibus ſibi applauſum, non planctum audientibus in ſalutem creant,</hi> where<g ref="char:EOLhyphen"/>as <hi>lacrymae auditorum ſunt laudes mi<g ref="char:EOLhyphen"/>niſtri:</hi>
+               <pb n="25" facs="tcp:170481:17"/> ſuch pointleſſe ſwords and fire<g ref="char:EOLhyphen"/>leſſe lamps, neither warm our affe<g ref="char:EOLhyphen"/>ctions, nor deſtroy our corruptions.</p>
+            <p>In this then lyeth the higheſt point of a watch-mans prudence, even in rightly dividing to each his portion, giving to each his due, knowing when and where to be <hi>ſons of conſola<g ref="char:EOLhyphen"/>tion,</hi> when and where to be <hi>ſons of thunder,</hi> 
+               <note place="margin">Mark 3.17.</note> when to mourn, that people may lament, when to pipe, that peo<g ref="char:EOLhyphen"/>ple may rejoyce.</p>
+            <p>There was in the Ark of the Teſta<g ref="char:EOLhyphen"/>ment the golden pot of Manna, <note place="margin">Heb. 9.4.</note> as well as the rod of <hi>Aaron;</hi> a Preach<g ref="char:EOLhyphen"/>er ſhould have both, and as a good mother <hi>ubera</hi> as well as <hi>verbera,</hi> and with the bee, a ſting as well as honey. Now the right ſuiting of theſe is and ought to be the watch-mans chiefeſt care; to apply rightly that which is moſt proper, ſave <hi>ſome with fear; on others have compaſsion.</hi>
+            </p>
+            <p>Honey cleared <hi>Ionathan</hi>'s eyes, and gall <hi>Tobit</hi>'s, meal healed the pot<g ref="char:EOLhyphen"/>tage, ſalt the water. 2 <hi>Kin.</hi> 2.23. and 4.42.</p>
+            <pb n="26" facs="tcp:170481:18"/>
+            <p>The good <hi>Samaritan</hi> powred in both wine and oyl, to cleanſe and ſup<g ref="char:EOLhyphen"/>ple: and thus muſt Gods watch-men caſt down, lift up, terrify, allure; ſome<g ref="char:EOLhyphen"/>times come <hi>with a rod,</hi> ſometimes <hi>with a ſpirit of meekneſſe,</hi> 
+               <note place="margin">1 Cor. 4.21.</note> alwayes ſpeak ſuitably to their hearers condi<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">2. To the hearers capacity.</p>
+            <p>
+               <note place="margin">1 Cor. 14.8.</note> 
+               <hi>For if the trumpet give an uncer<g ref="char:EOLhyphen"/>tain ſound, who ſhall prepare himſelf unto the battle?</hi>
+            </p>
+            <p>The excellency of an Oratour is perſpicuity: ſo of a Preacher plain<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>True it is, that as amongſt Gods Prophets, ſo amongſt Chriſts mini<g ref="char:EOLhyphen"/>ſters there is and may be difference; an <hi>Iſaiah</hi> as well as <hi>Amos;</hi> a <hi>Paul, rude in ſpeech,</hi> as well as an <hi>Apollo</hi>'s <hi>eloquent in the Scripture.</hi> 
+               <note place="margin">2 Cor. 11.6. Acts 18.24.</note>
+            </p>
+            <p>But whatever skill, talent, and gift they have, this they muſt and will regard, to ſpeak clearly, and to apply themſelves to the capacity of their preſent auditors.</p>
+            <pb n="27" facs="tcp:170481:18"/>
+            <p>Thus ſhall we find our Saviour did; the wiſe Aſtrologers he drawes by a ſtar, the <hi>Samaritan</hi> woman at the well by water, the <hi>Capernaits</hi> that fol<g ref="char:EOLhyphen"/>lowed him for loaves, he minds of ſpirituall bread, <hi>Andrew</hi> and <hi>Peter</hi> fiſher-men, by working a wonder in catching of fiſh; he ſpeaks to the huſ<g ref="char:EOLhyphen"/>bandmen of ſowing.</p>
+            <p>Thus did Chriſt, and ſo ſhould Preachers ſuit their inſtructions to their hearers capacities. And there<g ref="char:EOLhyphen"/>fore know that plain preaching is beſt, I mean not crude, careleſſe, negligent, ſlothfull and ſlovenly handling the word; but that which is moſt to the underſtanding and neceſſity of the hearers: ſuch preaching is beſt, be<g ref="char:EOLhyphen"/>cauſe it is
+<list>
+                  <item>1. Moſt convincing.</item>
+                  <item>2. Moſt ſaving, though not moſt pleaſing.</item>
+                  <item>3. Moſt agreeable to a miniſters calling, <note place="margin">1 Cor. 1.21.</note> who is a watch-man, a Phy<g ref="char:EOLhyphen"/>ſician.</item>
+                  <item>4. Moſt agreeable to Scripture-language,
+<pb n="28" facs="tcp:170481:19"/> which (as laws) would looſe their authority, if written above peoples capacities:
+<p>
+                        <hi>States ſhew not their eloquence, but their authority.</hi>
+                     </p>
+                  </item>
+                  <item>5. It's moſt comfortable for the conſcience of the Preachers, when they ſhall be able to ſay as the Apoſtle, <note place="margin">2 Cor. 1.12.</note> 
+                     <hi>Our rejoycing is this, the testimony of our conſcience, that in ſimplicity and godly ſincerity, not with fleſhly wiſdome, but by the grace of God, we have had our converſation in the world.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Let not hearers then like mans wit better then Gods word, the preach<g ref="char:EOLhyphen"/>ers <hi>affectation</hi> better then his <hi>affection,</hi> nor ſtorm at plain dealing, as <hi>Phara<g ref="char:EOLhyphen"/>oh</hi> and <hi>Ahab,</hi> nor ſcorn as the <hi>Athe<g ref="char:EOLhyphen"/>nians,</hi> who when <hi>Paul</hi> preacht of the reſurrection, called him babler. But love it, ſubmit to it, and attend it, as patients do Phyſicians, who come to them not to hear their eloquence, but procure their own health.</p>
+            <p>Let preachers then being Gods watch-men
+<pb n="29" facs="tcp:170481:19"/>
+               <list>
+                  <item>1. Not ſpeak falſly.</item>
+                  <item>2. Not ſpeak impertinently.</item>
+                  <item>3. Not ſpeak flatteringly, that were to poiſon men with ſweet meats.</item>
+                  <item>4. Not ſpeak too highly in lofty and obſcure expreſſions, for that were to ſhew children bread, &amp; hang it our of their reach, which courſe would rather fret them then feed them.</item>
+               </list>
+            </p>
+            <p>It is not reaſonable to apparell a chaſt virgin in the faſhions of a ſtrum<g ref="char:EOLhyphen"/>pet, nor to cloath divine wiſdome in affected and fantaſticall flouriſhes.</p>
+            <p>It is an obſervation I have read, <note place="margin">Lord <hi>G. Dig<g ref="char:EOLhyphen"/>by</hi>'s Letter.</note> that ſome diſcourſes are ſo tempered with elegancy of expreſſions, and weakneſſe of argument, that they give great <hi>contentment,</hi> but little <hi>ſatiſ<g ref="char:EOLhyphen"/>faction;</hi> pleaſe the ear, but not con<g ref="char:EOLhyphen"/>vince the judgement, nor work upon the affections, and leaſt of all move the conſcience.</p>
+            <p>True indeed, carnall eares deſire words without matter, ſauce with<g ref="char:EOLhyphen"/>out
+<pb n="30" facs="tcp:170481:20"/> meat, they would have their fancies pleaſed, not their conſciences wounded: but God in the Old Te<g ref="char:EOLhyphen"/>ſtament would have his Altar built with unpoliſhed ſtones, to teſtifie that he loved ſimplicitie in his ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <p>Let not preachers endeavour to ſpeak plauſibly, but plainly; not make their ſermons riddles, and tire their auditours with Quotations, let them not draw matter from <hi>Abana</hi> and <hi>Pharpar, Plato, Ariſtotle, Seneca, &amp;c.</hi> but from the wells of ſalvation, <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> the prophets and Apoſtles.</p>
+            <p>Alas Beloved, humane authorities are too weak to ſtrike ſin dead; it is <hi>Gideon</hi> himſelf, and not his ſons that muſt kill <hi>Zebah.</hi> 
+               <note place="margin">Iudg. 8.</note>
+            </p>
+            <p>It muſt be Gods word and not mans that muſt <hi>throw down ſtrong holds.</hi> 
+               <note place="margin">2 Cor. 10.4,5.</note> It is only that which is the ſword of the ſpirit; <note place="margin">Eph. 6.</note> and as <hi>David</hi> ſpoke of <hi>Goliah</hi>'s ſword, ther's <hi>none like it.</hi>
+            </p>
+            <p>This it was that Chriſt uſed in his encounter with the Devil, and this a<g ref="char:EOLhyphen"/>lone
+<pb n="31" facs="tcp:170481:20"/> is able <hi>to make a man wiſe unto ſalvation, and the man of God through<g ref="char:EOLhyphen"/>ly furniſhed.</hi> 
+               <note place="margin">2 Tim. 3.15,16,17.</note>
+            </p>
+            <p>One ſtone out of <hi>David</hi>'s ſcrip, one text of Gods word is of greater force to kill <hi>Goliah,</hi> to deſtroy ſin, then all <hi>Saul</hi>'s armour, then all the counſels and precepts of the wiſeſt moraliſts.</p>
+            <p>And therefore when men ſerve their humane and ſecular learning, as the <hi>Iſraelites</hi> did by the <hi>Egyptians</hi> ear<g ref="char:EOLhyphen"/>rings <hi>make calves of them,</hi> that they may be worſhipped, ſtuffe their ſer<g ref="char:EOLhyphen"/>mons full of humane authorities, ſen<g ref="char:EOLhyphen"/>tences of Poets and Oratours, to fiſh for applauſe, <hi>Aaron</hi>'s excuſe will not ſerve the turn, <hi>populus exigebat, Exod.</hi> 32.23.</p>
+            <p>But here I would not be miſtaken, as if I did miſlike all uſe of ſecular learning, Quotations, authorities in ſermons. No, know</p>
+            <p n="1">1. There may be much <hi>uſe</hi> where there is no <hi>ſhew;</hi> &amp; as that eloquence is beſt that flows naturally, and is not
+<pb n="32" facs="tcp:170481:21"/> forced (as a native beauty is better then a painted face) ſo is it the beſt art to conceal art.</p>
+            <p n="2">2. In ſome caſes, in ſome audito<g ref="char:EOLhyphen"/>ries, for the underſtanding of the ſenſe of words, the cuſtomes of times (as <hi>argumenta ad hominem</hi>) there is and may be neceſſary and good uſe of ſuch citations.</p>
+            <p>So that as <hi>Calvin</hi> ſpeaks on <hi>Tit.</hi> 1.12. they may be accounted ſuperſti<g ref="char:EOLhyphen"/>tious, that utterly condemn the bor<g ref="char:EOLhyphen"/>rowing any thing from profane au<g ref="char:EOLhyphen"/>thours. Yet I conceive in popular au<g ref="char:EOLhyphen"/>ditories, in ordinary labours, the more ſparingly uſed, the better; Gods mi<g ref="char:EOLhyphen"/>niſters are watch-men, and ſuch muſt not ſpeak curiouſly and quaintly, but ſcaſonably and plainly, ſuitably to their charges condition, and their charges capacity.</p>
+            <p>They who would be fuller ſatisfied concerning the uſe of ſecular learn<g ref="char:EOLhyphen"/>ing in ſermons may conſult. Dr. <hi>Tho. Taylor</hi> on <hi>Tit.</hi> 1.12. <hi>Zanchy praefat. ad lib. de Scriptura.</hi>
+            </p>
+            <pb n="33" facs="tcp:170481:21"/>
+            <p n="3">3. Warning ſeriouſly.</p>
+            <p>Affectionately, prevailingly, earn<g ref="char:EOLhyphen"/>eſtly, endeavouring to the utmoſt that people may take warning: Miniſters muſt warn
+<list>
+                  <item>1. Importune<g ref="char:EOLhyphen"/>ately.</item>
+                  <item>2. Compaſſio<g ref="char:EOLhyphen"/>nately.</item>
+               </list>
+            </p>
+            <p n="1">1. Importunately.</p>
+            <p>
+               <note place="margin">Iſa. 58.1.</note> 
+               <hi>Cry aloud, ſpare not, lift up thy voice as a trumpet.</hi>
+            </p>
+            <p>
+               <note place="margin">2 <hi>Tim.</hi> 4.2. Eccleſ. 12.10.</note> 
+               <hi>Be inſtant in ſeaſon, and out of ſea<g ref="char:EOLhyphen"/>ſon, exhort, reprove, rebuke with all authority:</hi> ſpeak home to the ſinner, that their words may be <hi>as nails</hi> faſt<g ref="char:EOLhyphen"/>ened, never give over, till by Gods trumpet they be awakened, <hi>call hea<g ref="char:EOLhyphen"/>ven and earth to witneſſe, warn night and day.</hi> 
+               <note place="margin">Iſa. 1.2. Acts 20.29.</note>
+            </p>
+            <p n="2">2. Compaſſionately, with affecti<g ref="char:EOLhyphen"/>on, commiſeration, out of love, and with abundance of pity towards pe<g ref="char:EOLhyphen"/>riſhing ſouls, <note place="margin">2 Tim. 3.</note> with long ſufferance, meekneſſe, yea with tears: thus did <hi>Paul,</hi> 
+               <note place="margin">Luke 19.41.</note> and thus did Chriſt warn <hi>Ieruſa<g ref="char:EOLhyphen"/>lem.</hi>
+            </p>
+            <pb n="34" facs="tcp:170481:22"/>
+            <p>When <hi>Alexander</hi> ſaw the dead corps of <hi>Darius:</hi> and <hi>Iulius Caeſar</hi> the head of <hi>Pompey;</hi> and <hi>Marcus Mar<g ref="char:EOLhyphen"/>cellus Syracuſe</hi> burn; <hi>Scipio Numantia</hi> ſpoiled, and <hi>Titus Ieruſalem</hi> made e<g ref="char:EOLhyphen"/>ven with the ground, they could not abſtain from weeping, albeit they were mortall enemies. And ſhall not we that are Gods watch-men be affe<g ref="char:EOLhyphen"/>cted, when we ſee dead ſouls haſten<g ref="char:EOLhyphen"/>ing towards deſtruction, even to<g ref="char:EOLhyphen"/>wards eaſeleſſe, endleſſe and remedi<g ref="char:EOLhyphen"/>leſſe ruines: whence is it then, that our Pulpits have no more tears? is it not from a ſenſeleſſe incompaſſio<g ref="char:EOLhyphen"/>nateneſſe of our peoples periſhing condition?</p>
+            <p>It's true indeed, miniſters muſt ſharply and ſeverely reprove, and that with all authority.</p>
+            <p>But yet it muſt be wiſely with theſe and the like cautions.
+<list>
+                  <item>1. That they light on thoſe that need them.</item>
+                  <item>2. That they aim at the humbling of the ſinner, and not diſgracing.</item>
+                  <pb n="35" facs="tcp:170481:22"/>
+                  <item>3. That they flow not from carnall reſpects.</item>
+               </list>
+            </p>
+            <p>But through all, a ſpirit of com<g ref="char:EOLhyphen"/>paſſion muſt manifeſt it ſelf, that our hearers may know that we do not de<g ref="char:EOLhyphen"/>ſire <hi>the wofull day. Ier.</hi> 17.16.</p>
+            <p>Our reproofs of others muſt not be with fury but meekneſſe. <note place="margin">Gal. 6.1.</note>
+            </p>
+            <p>As Chirurgions and bone-ſetters with tenderneſſe reſtore diſlocated joynts, not give gall and vinegar to wounded conſciences, when we ſhould give milk and water. If true love have not a part in the <hi>ſcene</hi> of re<g ref="char:EOLhyphen"/>proof, we ſhall but act a Tragedy, and with <hi>Hazael</hi> under pretence of eaſing <hi>Benhadad,</hi> ſtifle our Brother with a thick cloth dipt in water.</p>
+            <p>Should we come upon our Bre<g ref="char:EOLhyphen"/>thren, as <hi>Eliab</hi> did on <hi>David,</hi> 
+               <note place="margin">1 Sam. 17.</note> in heat and choler, we ſhould at beſt but do what the <hi>Iews</hi> blaſphemouſly char<g ref="char:EOLhyphen"/>ged on Chriſt, <hi>Caſt out Satan by Satan,</hi> 
+               <note place="margin">Iam. 1.20.</note> ſince <hi>the wrath of man worketh not the righteouſneſſe of God.</hi>
+            </p>
+            <p>God came to <hi>Adam</hi> in the cool
+<pb n="36" facs="tcp:170481:23"/> of the day, and appeared to <hi>Elijah</hi> in a ſtill voice.</p>
+            <p>The dead fly of (appearing) envy or anger, makes many times the oint<g ref="char:EOLhyphen"/>ment of reproof to ſavour ill.</p>
+            <p>Reprehenſion indeed is one prin<g ref="char:EOLhyphen"/>cipall part of the miniſters work, <note place="margin">Lev. 19.17.</note> but it muſt be wiſely performed.</p>
+            <p>No railing <hi>Shimei,</hi> nor furious <hi>Ie<g ref="char:EOLhyphen"/>hu,</hi> but a prudent <hi>Nathan</hi> is fit for this imployment, who wrapt his pill in ſugar, and dreſt his reproof as uſually Chriſt did his in parables.</p>
+            <p>Hot reprehenſions are not alwaies coals taken from Gods altar, but ſometimes flow from our own miſta<g ref="char:EOLhyphen"/>ken zeal, who come as <hi>Iehu</hi> in a fu<g ref="char:EOLhyphen"/>ry, who with <hi>Iames</hi> and <hi>Iohn,</hi> call for fire on the <hi>Samaritans:</hi> we many times miſtake, and know not what ſpirit we are of, God is not alwaies in ſuch thunder. <note place="margin">1 Kin. 14.</note>
+            </p>
+            <p>
+               <hi>Obſecratio frangit animum, &amp; pla<g ref="char:EOLhyphen"/>cide ſe inſtillat.</hi>
+            </p>
+            <p>Chriſts Embaſſadours muſt be<g ref="char:EOLhyphen"/>ſeech. How often doth the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="37" facs="tcp:170481:23"/> come with <hi>Dearly Beloved.</hi>
+            </p>
+            <p>Downright blows do not alwaies pierce deepeſt.</p>
+            <p>
+               <hi>Paul</hi> reproves the <hi>Galathians</hi> ſome<g ref="char:EOLhyphen"/>times.
+<list>
+                  <item>1. <hi>Tranſlatione criminis,</hi> there be a<g ref="char:EOLhyphen"/>mongſt you.</item>
+                  <item>2. <hi>Ex ſuppoſitione,</hi> if you bite, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>As a wiſe father that knows his ſon is riotous, yet falls not preſently on him with downright reproofs, but writes to him thus: <hi>Son, if you conti<g ref="char:EOLhyphen"/>nue in ſuch and ſuch courſes, beggery and ſhame will be the end.</hi> As a wiſe Phyſician to a regardleſſe patient, if you do this or that you will endanger your life.</p>
+            <p>
+               <hi>Lipſius</hi> relates of a phyſician, that being to adminiſter to a ſqueamiſh patient that diſgnſted all phyſick, di<g ref="char:EOLhyphen"/>rected her to drink the milk of a Goat that had been fed with phyſicall herbs.</p>
+            <p>Thus muſt Gods miniſters mingle the bitter potion of deſerved repre<g ref="char:EOLhyphen"/>henſions
+<pb n="38" facs="tcp:170481:24"/> with the ſweet milk of win<g ref="char:EOLhyphen"/>ning perſwaſions, beſeeching thoſe whom they might enjoyn, as <hi>Paul</hi> did <hi>Philemon,</hi> 
+               <note place="margin">Phil. verſ. 8.</note> not deal treacherouſly, but yet compaſſionately.</p>
+            <p>Corraſives and lances muſt be uſed ſometimes, but then the Chirurgeon comes with grief.</p>
+            <p n="4">4. Faithfulneſſe.</p>
+            <p>A faithleſſe watch-man is a moſt dangerous miſchief, in that he hath, being watchman, an opportunity of giving intelligence to the enemy, and thereby of ruining the whole army: ſo is it ſpiritually, and therefore in ſuch eſpecially faithfullneſſe is required.</p>
+            <p>For Confirmation of this conſi<g ref="char:EOLhyphen"/>der.
+<list>
+                  <item>1. God promiſeth to raiſe up a faithfull prieſt. <note place="margin">1 Sam. 2.35.</note>
+                  </item>
+                  <item>2. God requireth in ſtewards that they ſhould be ſuch. <note place="margin">1 Cor. 4.2.</note>
+                  </item>
+                  <item>3. God counted <hi>Paul</hi> faithfull, and put him in the miniſtry. <note place="margin">1 Tim. 1.12.</note>
+                  </item>
+                  <item>4. God ordains that the office of the miniſtry ſhould be committed to
+<pb n="39" facs="tcp:170481:24"/> faithfull men, who ſhall be able to teach others. <note place="margin">2 Tim. 2.2.</note>
+                  </item>
+                  <item>5. The Scripture laies it down as the ſingular commendations of the choiceſt miniſters.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Paul, Tychicus, Sylvanus</hi> are all commended in that they were faith<g ref="char:EOLhyphen"/>full. <note place="margin">1 Cor. 7,25. Eph. 6.21. Col. 1 7. 1 Pet. 5.12.</note>
+            </p>
+            <p>By all which we may ſee, <hi>viz.</hi> Gods promiſing, requiring, appointing, di<g ref="char:EOLhyphen"/>recting &amp; commanding, by all which, I ſay, we may clearly ſee, that miniſters (as watch-men) are to be qualified with faithfullneſſe for this imploy<g ref="char:EOLhyphen"/>ment, &amp; this particularly to be ſhewn in reſpect of
+<list>
+                  <item>1. God, his truths.</item>
+                  <item>2. Themſelves, their own lives.</item>
+                  <item>3. Their charge.</item>
+               </list>
+            </p>
+            <p n="1">1. God his Truths.</p>
+            <p>Gods watch-men muſt be ſound in the faith, <note place="margin">Tit. 1.13. cap. 2.1,7,8.</note> ſpeaking thoſe things which <hi>become ſound doctrine, ſhewing there<g ref="char:EOLhyphen"/>in uncorruptneſse, gravity, ſincerity, ſound ſpeech that cannot be condemned,
+<pb n="40" facs="tcp:170481:25"/> and holding fast the form of ſound words, delaring Gods word faith<g ref="char:EOLhyphen"/>fully.</hi> 
+               <note place="margin">2 Tim. 1.13. Ier. 23.28.</note>
+            </p>
+            <p n="2">2. Themſelves.</p>
+            <p>To their own ſouls, by an holy and unblamable converſation, <note place="margin">1 Cor. 9.27.</note> 
+               <hi>leaſt preaching to others they themſelves be<g ref="char:EOLhyphen"/>come caſt awaies.</hi>
+               <q>
+                  <hi>Qui ſibi nequam, cui bonus?</hi>
+               </q> How can they look to the ſouls of o<g ref="char:EOLhyphen"/>thers, that have no regard unto their own? <note place="margin">1 Can. 6.</note> that though they are made the keepers of the vineyard, yet <hi>their own vineyard they have not kept?</hi> mi<g ref="char:EOLhyphen"/>niſters ought to be examples to the flock, <hi>ſhewing themſelves patterns of good works,</hi> 
+               <note place="margin">Tit. 2.7.</note> otherwiſe they will prove offenſes in ſtead of furtherances.</p>
+            <p>For though Gods truths do not depend on mans weakneſſe, yet as a ſluttiſh cook makes us loath whol<g ref="char:EOLhyphen"/>ſome meat, ſo a profane life cauſeth a diſreliſh even in good doctrine.</p>
+            <p n="3">3. The flock.</p>
+            <p>Watch men and ſtewards muſt be faithfull, as to their Generall and ma<g ref="char:EOLhyphen"/>ſters,
+<pb n="41" facs="tcp:170481:25"/> ſo to the army and ſervants, <hi>Gi<g ref="char:EOLhyphen"/>ving each their portion.</hi> 
+               <note place="margin">Luke 12.42.</note>
+            </p>
+            <p>
+               <hi>Ministers are debters to the wiſe and unwiſe,</hi> and muſt pay each their due, <note place="margin">Rom. 1.14.</note> that ſo when the ſermon is done, none may complain that they go away with<g ref="char:EOLhyphen"/>out their ſhare.</p>
+            <p>There are ſome have need of ſtrong meat, others of milk, the unruly muſt be warned, the feeble-minded comforted, <note place="margin">1 Theſ. 5.14.</note> the weak ſupported, gain<g ref="char:EOLhyphen"/>ſayers muſt be convinced, the fallen through infirmity reſtored, <note place="margin">Galat. 6.1.</note> the word muſt be rightly divided, that each, both babes and men may have their portion.</p>
+            <p>It's all the flock, not ſome of them, <note place="margin">Acts 20.28.</note> that we are overſeers of.</p>
+            <p>It's the whole houſe of <hi>Iſrael</hi> that <hi>E<g ref="char:EOLhyphen"/>zekiel</hi> is a watch-man to, the greateſt as well as the ſmalleſt were in the com<g ref="char:EOLhyphen"/>paſſe of his commiſſion.</p>
+            <p>
+               <hi>Nathan</hi> muſt tell even a <hi>David,</hi> 
+               <note place="margin">2 Sam. 12.</note> a great man and a good man, <hi>Thou art the man.</hi>
+            </p>
+            <p>
+               <hi>Iohn Baptiſt</hi> muſt tell <hi>Herod,</hi> 
+               <note place="margin">Matth. 14.</note> though a bloudy tyrant, <hi>Non licet tibi;</hi> the
+<pb n="42" facs="tcp:170481:26"/> greateſt muſt hear, the ſmalleſt muſt be lookt to, <note place="margin">Pſal. 119.46.</note> 
+               <hi>Feed my lambs. Oneſimus,</hi> though a run-away ſervant, yet muſt have pains taken with him.</p>
+            <p n="5">5. Diligence.</p>
+            <p>Watchfulneſſe, care, ſollicitouſ<g ref="char:EOLhyphen"/>neſſe. Thus <hi>Iacob,</hi> when he kept <hi>La<g ref="char:EOLhyphen"/>ban</hi>'s ſheep, ſleep departed from his eyes. How much greater care lieth then on ſpirituall watch-men and ſhepherds, who of all men muſt not be <hi>ſlothfull in buſineſse, but fervent in ſpi<g ref="char:EOLhyphen"/>rit,</hi> having earneſt care for the church<g ref="char:EOLhyphen"/>es wellfare. <note place="margin">2 Cor. 7.12. cap. 8.16. 1 Tim. 3.5. 2 Phil. 20.</note>
+            </p>
+            <p>Watch-men then and miniſters muſt be diligent, ſollicitous and care<g ref="char:EOLhyphen"/>full, and that on theſe three grounds.
+<list>
+                  <item>1. Their work is difficult.</item>
+                  <item>2. Their adverſaries are watchfull.</item>
+                  <item>3. Their own charge are careleſſe.</item>
+               </list>
+            </p>
+            <p n="1">1. Their work is weighty and diffi<g ref="char:EOLhyphen"/>cult: now hard work will not be done with lazy endeavours: great work calls for great induſtry; the weighty work of winning ſouls will never be diſcharged with lazy hands, and care<g ref="char:EOLhyphen"/>leſſe hearts, thence thoſe counſels.</p>
+            <pb n="43" facs="tcp:170481:26"/>
+            <p>
+               <hi>Be inſtant in ſeaſon, out of ſeaſon, ſtir up the gift, &amp;c.</hi> 
+               <note place="margin">2 Tim. 4.2. 2 Tim. 1.6.</note>
+            </p>
+            <p>
+               <hi>Paul</hi>'s practice, in <hi>labours more abun<g ref="char:EOLhyphen"/>dant.</hi> 
+               <note place="margin">2 Cor. 11.23.</note>
+            </p>
+            <p n="2">2. The adverſaries are watchfull.
+<list>
+                  <item>1. The adverſaries of truth <hi>ly in wait to deceive.</hi>
+                  </item>
+                  <item>Seducers <hi>compaſſe ſea and land to gain proſelytes.</hi>
+                  </item>
+                  <item>It was <hi>while the ſervants ſlept that the enemy ſowed tares.</hi>
+                  </item>
+                  <item>2. The adverſaries of holineſſe, the world, fleſh, the Devil, they are watchfull, Satan hath wiles, devi<g ref="char:EOLhyphen"/>ces, methods, in which he uſeth diligence and induſtry, <hi>your adver<g ref="char:EOLhyphen"/>ſary the Devil goeth about, &amp;c.</hi> 
+                     <note place="margin">1 Pet. 5.8.</note>
+                  </item>
+               </list>
+            </p>
+            <p n="3">3. Their charges are careleſſe.</p>
+            <p>The generality dead in treſpaſſes and ſins, not minding, nor fearing, nor be<g ref="char:EOLhyphen"/>ing ſenſible of their danger, and there<g ref="char:EOLhyphen"/>fore miniſters have more need to be ſollicitous.</p>
+            <p>
+               <hi>Epaminondas</hi> a <hi>Theban</hi> Duke, when his citizens gave themſelves on cer<g ref="char:EOLhyphen"/>tain feſtivall daies more licentiouſly to their pleaſure, he alone ſober and
+<pb n="44" facs="tcp:170481:27"/> ſerious. <hi>Arma luſtrabat, &amp; maenia perluſtrabat,</hi> lookt carefully to the wals, and being asked why he did ſo, Anſwered, therefore, becauſe the citi<g ref="char:EOLhyphen"/>zens were leſſe ſober, was he the more carefull.</p>
+            <p>Now have not miniſters great cauſe to do ſo for their charge?</p>
+            <p>Thus <hi>Iob</hi> did for his children, <note place="margin">Iob 1.5.</note> while they feaſted, <hi>he roſe early and ſacrifi<g ref="char:EOLhyphen"/>ced.</hi>
+            </p>
+            <p>Well then, the miniſters work is great, the adverſaries many, and their own charge careleſſe; it much con<g ref="char:EOLhyphen"/>cerns them then to be diligent, care<g ref="char:EOLhyphen"/>full, ſollicitous and induſtrious in their places, that (as from <hi>Iacob</hi>'s tending <hi>Laban</hi>'s flock) the ſleep may go from their eyes, while they with <hi>Paul</hi> watch and warn every one <hi>night and day with tears,</hi> 
+               <note place="margin">Acts 20.26.31.</note> that they may take their hearers to record, that they are <hi>pure from the bloud of all men, having not ſhunned to declare unto them all the counſell of God.</hi>
+            </p>
+            <p>And thus (Reverend Fathers and Brethren) though you know theſe
+<pb n="45" facs="tcp:170481:27"/> things, and are eſtabliſht in them, yet according to my duty I have made bold to put you in remembrance of them, that thereby I may as St. <hi>Peter</hi> ſpeaks, <note place="margin">2 Pet. 1.12,13.</note> 
+               <hi>ſtir up your pure minds.</hi> And though I queſtion not but your own conſciences will apply and improve the doctrinall truths you have heard; yet leaſt I ſhould be wanting to my du<g ref="char:EOLhyphen"/>ty and your expectation, I ſhall en<g ref="char:EOLhyphen"/>deavour as the time will bear particu<g ref="char:EOLhyphen"/>larly to preſſe them home.</p>
+            <p>You have heard that miniſters are watch-men, and as watch-men muſt be thus qualified, <hi>viZ.</hi> with courage, underſtanding, prudence, faithfulneſs and diligence.</p>
+            <p>Suffer then the word of exhortati<g ref="char:EOLhyphen"/>on, and in the ſtations that God hath ſet you: remember that you are his watch-man, and therefore reſolve with the prophet <note place="margin">Heb. 2.1.</note> 
+               <hi>To ſtand upon your watch, ſet you upon the tower, and watch to ſee what he will ſay unto you, and what you ſhall anſwer.</hi> And in your ſo doing, that I may preſſe home particulars in the doctrine mentioned.</p>
+            <pb n="46" facs="tcp:170481:28"/>
+            <p n="1">1. Be couragious.</p>
+            <p>Fear not their faces, nor be diſmay<g ref="char:EOLhyphen"/>ed; I have ſhewn you in the doctri<g ref="char:EOLhyphen"/>nall part of my diſcourſe why.</p>
+            <p>I ſhall now lay before you ſome con<g ref="char:EOLhyphen"/>ſiderations that may ſupport, ſtrength<g ref="char:EOLhyphen"/>en, and encourage you: and all I ſhall ſay, I ſhall reduce to theſe three heads.
+<list>
+                  <item>1. You have Gods commiſſion.</item>
+                  <item>2. You have Gods aſſiſtance.</item>
+                  <item>3. You are ſure of good ſucceſſe.</item>
+               </list>
+            </p>
+            <p n="1">1. You have Gods commiſſion, <hi>Son of man, I have made thee a watch-man.</hi>
+            </p>
+            <p>And ſhall we not be bold, when we have this warrant for what we do? Do we not ſee mean men, Heralds, Trum<g ref="char:EOLhyphen"/>petters, carry themſelves boldly on Princes and Generals commiſſions? And ſhall not Gods commiſſions make us couragious? what though we be as ſheep among wolves, yet he ſends us.</p>
+            <p>True it is (Brethren) were we with<g ref="char:EOLhyphen"/>out commiſſion, we might very well be without confidence.</p>
+            <p>If we could not anſwer who made
+<pb n="47" facs="tcp:170481:28"/> thee a watch-man, as it was ſuppoſed <hi>Moſes</hi> could not? <note place="margin">Act. 7.27.</note> 
+               <hi>Who made thee a Ruler and a Iudge over us?</hi> we might very well fly and fear as he did.</p>
+            <p>But if we can evidence our commiſ<g ref="char:EOLhyphen"/>ſion to our own conſciences, we may with boldneſſe manage that which God hath truſted us with.</p>
+            <p>It is not my purpoſe, neither will the time bear it to handle the doctrine of Gods commiſſionating watch-men. That, by a Reverend Brother in the hearing of moſt of you, and on the like occaſion, was performed, whoſe Sermon is now made publick. <note place="margin">Mr. <hi>Nor<g ref="char:EOLhyphen"/>man</hi> of <hi>Bridge<g ref="char:EOLhyphen"/>water</hi> at <hi>So<g ref="char:EOLhyphen"/>merton, Iune</hi> 9. 1658.</note>
+            </p>
+            <p>I ſhall only at preſent mind you, what <hi>Luther</hi> formerly; we may now obſerve four ſorts of ſpirituall watch-men.
+<list>
+                  <item>1. Only from God and not man.
+<list>
+                        <item>1. Prophets.</item>
+                        <item>2. Apoſtles.</item>
+                     </list>
+                  </item>
+                  <item>2. Only by man and not God, un<g ref="char:EOLhyphen"/>learned, unworthy.</item>
+                  <item>3. Neither by God nor man, falſe pro<g ref="char:EOLhyphen"/>phets, Enthuſiaſts, wolves in ſheeps clothing.</item>
+                  <item>4. Both by God fitted, and man or<g ref="char:EOLhyphen"/>dained
+<pb n="48" facs="tcp:170481:29"/> as the Elders of <hi>Epheſus,</hi> and o<g ref="char:EOLhyphen"/>thers in the primitive, and now the miniſters in the reformed Proteſtant churches. <hi>Acts</hi> 20.28. <hi>Acts</hi> 14.23.</item>
+               </list>
+            </p>
+            <p>Now then, when we ſpeak in Gods name, in his ſtead, by his commiſſion, as his Embaſſadours ſhall we not ſpeak boldly? <note place="margin">2 Cor. 5.20. Iſa. 58.1.</note> Yea, cry aloud, and not ſpare.</p>
+            <p n="2">2. You have Gods preſence and aſ<g ref="char:EOLhyphen"/>ſiſtance, <hi>Loe I am with you to the end of the world.</hi> Now if an Herald in the ab<g ref="char:EOLhyphen"/>ſence of his Prince, <note place="margin">Mat. 28.20.</note> being thereto au<g ref="char:EOLhyphen"/>thorized will proclaim war againſt, &amp; defy another Prince even in the head of his forces. How much greater rea<g ref="char:EOLhyphen"/>ſon have Gods Heralds to deal un<g ref="char:EOLhyphen"/>dauntedly, ſince they have him with them.</p>
+            <p>When God ſent <hi>Moſes,</hi> 
+               <note place="margin">Exod. 3.11,12.</note> and he drew back, God tells him, <hi>I am with thee,</hi> and this indeed may ſuffice us againſt the multitudes of enemies, and likeli<g ref="char:EOLhyphen"/>hood of oppoſitions.</p>
+            <p>As when <hi>Antigonus</hi>'s Admirall told him that the number of his adverſa<g ref="char:EOLhyphen"/>ries far exceeded his own forces, he anſwered, True, but <hi>how many do you ſet me againſt?</hi>
+            </p>
+            <pb n="49" facs="tcp:170481:29"/>
+            <p>So when our faithleſſe hearts diſcou<g ref="char:EOLhyphen"/>rage us, &amp; prompt us, that our oppoſi<g ref="char:EOLhyphen"/>tions are greater then our ſtrength. Let us then conſider how many do we ſet God againſt? and if he be with us, as he is with his ſervants, owning their inju<g ref="char:EOLhyphen"/>ries, and eſpouſing their juſt quarrels, if God be thus for us and with us, who can be againſt us? who can prevail a<g ref="char:EOLhyphen"/>gainſt us, ſo as to procure harm to us?</p>
+            <p n="3">3. You have aſſurance of good ſuc<g ref="char:EOLhyphen"/>ceſſe, <note place="margin">Ezek. 2.5.</note> 
+               <hi>whether they will hear, or whether they will forbear; yet they ſhall know that there hath been a prophet amongst them.</hi> 
+               <note place="margin">Iſa. 49.5.</note> 
+               <hi>Though Iſrael be not gathered, yet ſhall I be glorious in the eyes of the Lord, and my God ſhall be my ſtrength.</hi>
+            </p>
+            <p>
+               <note place="margin">2 Cor. 2.15.</note> 
+               <hi>For we are unto God a ſweet ſavour of Chriſt in them that are ſaved, and in them that periſh.</hi>
+            </p>
+            <p>Now ſhall not this embolden us, when probabilities of ſucceſſe make men venture far.</p>
+            <p>We read of <hi>Ageſilaus,</hi> that to encou<g ref="char:EOLhyphen"/>rage his ſouldiers before a battle, clap<g ref="char:EOLhyphen"/>ping his hand upon the Altar by a fore<g ref="char:EOLhyphen"/>plotted device he brought of victory
+<pb n="50" facs="tcp:170481:30"/> engraven on his palm, which he ſhew<g ref="char:EOLhyphen"/>ed to his ſouldiers, who were thereby ſo encouraged, that they got an un<g ref="char:EOLhyphen"/>lookt and an unlikely victory. Now to encourage Gods watch-men and ſoul<g ref="char:EOLhyphen"/>diers, we have an aſſurance that we ſhall be <note place="margin">Rom. 8.37. Mat. 18.18.</note> 
+               <hi>more then conquerours, the gates of hell ſhall not prevail.</hi>
+            </p>
+            <p>Well then (Reverend Fathers and Brethren) let us conſider, that where a door is open, though there be many adverſaries; frowning <hi>Ahabs,</hi> perſe<g ref="char:EOLhyphen"/>cuting <hi>Iezabels,</hi> ſcoffing <hi>Iſhmaels,</hi> mocking <hi>Micals,</hi> and ſometimes an<g ref="char:EOLhyphen"/>gry <hi>Aſa'es:</hi> Yet we have Gods war<g ref="char:EOLhyphen"/>rant, his preſence, his promiſe, and ſo as <hi>Eliſha</hi> told his fearfull ſervant; <note place="margin">2 King. 6.16,</note> 
+               <hi>there are more on our ſide then there are a<g ref="char:EOLhyphen"/>gainſt us.</hi> Let us not then fear man, who have a God to warrant us his pre<g ref="char:EOLhyphen"/>ſence with us, and who hath promi<g ref="char:EOLhyphen"/>ſed a comfortable ſucceſſe unto us.</p>
+            <p>Eſpecially conſidering that</p>
+            <p n="1">1. Our fear of man is the next way to lay us open to Gods fury.</p>
+            <p>That watch-man that removes from his ſtation for the fear of an enemy,
+<pb n="51" facs="tcp:170481:30"/> doth thereby actually incurre the dan<g ref="char:EOLhyphen"/>ger of a capitall ſentence from his own Generall.</p>
+            <p n="2">2. Herein if ever that obſervation is verified, <hi>Cowards are cruell.</hi>
+            </p>
+            <p>The Emperour <hi>Mauritius</hi> enqui<g ref="char:EOLhyphen"/>ring concerning <hi>Phocas</hi> what he was, heard he was a coward, then anſwe<g ref="char:EOLhyphen"/>red, he is a murderer.</p>
+            <p>It's moſt true in this caſe.</p>
+            <p>Miniſters cowardiſe is cruelty, he that fears faces, hates, kills ſouls.</p>
+            <p n="2">2. Labour for a diſcerning eye.</p>
+            <p>Why miniſters ſhould be men of knowledge, you have heard.</p>
+            <p>I ſhall only now point to you from the text how they may be ſuch.</p>
+            <p>
+               <note place="margin">Text.</note> 
+               <hi>Therefore hear the word at my mouth.</hi>
+            </p>
+            <p>Gods mouth, which ſpirituall watch-men are now (ſince immediate con<g ref="char:EOLhyphen"/>verſe with him is ceaſed) to hear Gods mind from, is
+<list>
+                  <item>1. His works.</item>
+                  <item>2. His Scriptures.</item>
+               </list>
+            </p>
+            <p>For as <hi>Ariſtotle</hi> had two ſorts of writings, one called <hi>exotericall,</hi> for
+<pb n="52" facs="tcp:170481:31"/> common auditours: another called <hi>A<g ref="char:EOLhyphen"/>croamaticall</hi> for his private Scholars &amp; familiar acquaintance: ſo God hath two Books.
+<list>
+                  <item>1. The creatures, the <hi>ſhepherds Ca<g ref="char:EOLhyphen"/>lendar, the plow-mans Alphabet.</hi>
+                     <p>
+                        <hi>Vniverſus mundus nihil aliud eſt quam Deus explicatus.</hi>
+                     </p>
+                     <p>
+                        <note place="margin">Rom. 1.20.</note> 
+                        <hi>For the inviſible things of him from the creation of the world, are clearly ſeen, being understood, by the things that are made, even his eternal pow<g ref="char:EOLhyphen"/>er and Godhead.</hi> 
+                        <note place="margin">
+                           <gap reason="illegible" resp="#OXF" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</note>
+                     </p>
+                     <p>
+                        <note place="margin">Pſal. 19.12.</note> 
+                        <hi>The heavens declare the glory of God, and the earth ſhew forth his handy work.</hi>
+                     </p>
+                     <p>In which Scripture, as one obſerves the Pſalmiſt ſhews that the crea<g ref="char:EOLhyphen"/>tures are
+<list>
+                           <item>1. Dilige<g ref="char:cmbAbbrStroke">̄</g>t preachers at all times.</item>
+                           <item>2. Learned preachers in all tongues.</item>
+                           <item>3. Catholick in all countries.</item>
+                        </list>
+                     </p>
+                  </item>
+                  <item>2. The Scriptures the moſt plain, e<g ref="char:EOLhyphen"/>vident, and clear diſcovery of his mind. <note place="margin">Pſal. 19.7.</note> 
+                     <hi>The law of the Lord is perfect, converting the ſoul; the teſtimony
+<pb n="53" facs="tcp:170481:31"/> of the Lord is ſure, making wiſe the ſimple, &amp;c.</hi> And thoſe are for his choice and domeſtick ſcholars.
+<p>
+                        <hi>He ſheweth his word unto Iacob, his ſtatutes and his judgements unto Iſrael:</hi> 
+                        <note place="margin">Pſal. 147.19,20.</note> 
+                        <hi>He hath not dealt ſo with a<g ref="char:EOLhyphen"/>ny nation; and as for his judgements they have not known them.</hi>
+                     </p>
+                  </item>
+               </list>
+            </p>
+            <p>Now Gods watch-men muſt hear his mind from both, Gods works and word; but eſpecially the later.</p>
+            <p>In reference to which I ſhall leave with you theſe two directions.</p>
+            <p n="1">1. Search the Scriptures. <note place="margin">Ioh. 5.39,</note>
+            </p>
+            <p>Converſe much with thoſe ſacred pages, thereby <note place="margin">2 Tim. 3.17.</note> 
+               <hi>the man of God may be perfest, throughly furniſhed unto every good work.</hi> And therefore the counſell that <hi>Paul</hi> gives <hi>Timothy,</hi> let me beſeech you in the name of Ieſus Chriſt to have regard unto.</p>
+            <p>
+               <note place="margin">1 Tim. 4.13,14.</note> 
+               <hi>Give attendance to reading, to exhor<g ref="char:EOLhyphen"/>tation, to doctrine. Neglect not the gift that is in thee, meditate upon theſe things, give thy ſelf wholly to them, that thy profiting may appear to all.</hi>
+            </p>
+            <p>The Scriptures are the more <hi>ſure
+<pb n="54" facs="tcp:170481:32"/> word whereunto we do well that we take heed as unto a light ſhining in a dark place.</hi> 
+               <note place="margin">2 Pet. 1.19.</note>
+            </p>
+            <p>It's Gods revealed will alone muſt be our light.</p>
+            <p>It's not <hi>Thus ſaith Auſtin. &amp;c.</hi> but <hi>Thus ſaith the Lord,</hi> muſt be our war<g ref="char:EOLhyphen"/>rant. As thoſe in the 137 <hi>Pſalm,</hi> would not ſing the Lords ſong in a ſtrange land: ſo miniſters muſt not ſing ſtrange ſongs in the Church, which is the Lords land, <hi>Hoſ.</hi> 9.3.</p>
+            <p>Embaſſadours muſt not go <hi>extra mandata,</hi> beſides their inſtructions, neither may preachers bring doctrines which the word warrants not, whate<g ref="char:EOLhyphen"/>ver great names they may be uſhered in by.</p>
+            <p>We are to be Gods mouth, and therefore muſt not ſpeak <hi>hominum commenta,</hi> but <hi>divina oracula. Aaron</hi> was to ſpeak as <hi>Moſes</hi> bad him, mini<g ref="char:EOLhyphen"/>ſters what Chriſt commands.</p>
+            <p>It is his bread which we muſt break, that which Chriſt hath bleſſed, or elſe twill not multiply in our hands.</p>
+            <p>And therefore let me beſeech you
+<pb n="55" facs="tcp:170481:32"/> (eſpecially thoſe of the younger ſort) that you would beſtow your pains and time in the ſtudy of the Scri<g ref="char:EOLhyphen"/>ptures.</p>
+            <p>When <hi>Iſaac Caſaubon</hi> ſent his Notes on <hi>Diogenes Laertius</hi> (being the firſt fruits of his ſtudies) to his Father, who was a Reverend miniſter in <hi>France,</hi> his Father ſent him this Anſwer.</p>
+            <p>
+               <note place="margin">
+                  <hi>Leigh</hi> Epiſt. Dedic. in No<g ref="char:EOLhyphen"/>tas in N. T.</note> 
+               <hi>Mi fili, laudo tuum ſtudium, verum hoc ſcito rem gratiorem te mihi factu<g ref="char:EOLhyphen"/>rum, ſi velunum dictum ſacrae ſcripturae difficultatibus aliquibus obstructum ex<g ref="char:EOLhyphen"/>plicaveris, quam ſi mille profanorum ſcriptorum loca depravata correxeris.</hi>
+            </p>
+            <p n="2">2. Beg of God, and labour for an experience of the word in your own hearts. It is (as one notes) the chief myſtery in divine Rhetorick, to feel what a man ſpeaks, and then ſpeak what a man feels.</p>
+            <p>The heart underſtands the language of the heart.</p>
+            <p>It's but a cold breath that comes only from the mouth.</p>
+            <p>They can beſt teach the way to cure others that are ſenſible of the
+<pb n="56" facs="tcp:170481:33"/> cure wrought on themſelves.</p>
+            <p>
+               <note place="margin">Pſal. 51.</note> 
+               <hi>Then will I teach tranſgreſſours thy waies, and ſinners ſhall be converted un<g ref="char:EOLhyphen"/>to thee.</hi>
+            </p>
+            <p>
+               <note place="margin">Luke 22.32.</note> 
+               <hi>When thou art converted, ſtrengthen thy Brethren.</hi>
+            </p>
+            <p>
+               <note place="margin">Pſal. 66.</note> 
+               <hi>I will tell you what the Lord hath done for my ſoul.</hi>
+            </p>
+            <p>Miniſters then ought to be as good Phyſicians, that firſt experience on themſelves; or as nurſes, that feed their hearers with what themſelves have ea<g ref="char:EOLhyphen"/>ten.</p>
+            <p>
+               <note place="margin">Ezek. 3.1.</note> 
+               <hi>Ezekiel</hi> was firſt to eat the roul, and then to propheſy.</p>
+            <p>And here (would the time have given me leave) I ſhould have been earneſt with you (Reverend Fathers and Brethren) that you would eſpe<g ref="char:EOLhyphen"/>cially regard theſe two things.
+<list>
+                  <item>1. To have the experience of the power of the word in your own hearts.</item>
+                  <item>2. To manifeſt it to others by an ho<g ref="char:EOLhyphen"/>ly, blameleſſe, and unrebukable converſation.</item>
+               </list>
+            </p>
+            <p>To perſwade you to which care,
+<pb n="57" facs="tcp:170481:33"/> I ſhall only mind you of two things.</p>
+            <p n="1">1. You will thereby preach more profitably and pertinently; by how much the more you ſpeak experimen<g ref="char:EOLhyphen"/>tally.</p>
+            <p>There are ſome divine truths that cannot be comprehended by the head as by the heart.</p>
+            <p n="2">2. You are like thereby to preach more ſucceſſefully.</p>
+            <p>
+               <note place="margin">2 Kin. 4.31.</note> 
+               <hi>Eliſha</hi>'s ſtaffe in <hi>Gehazi</hi>'s hand had no virtue.</p>
+            <p>
+               <note place="margin">Luke 4.34,35.</note> Chriſt bad Satan hold his peace, when he ſaid, <hi>Thou art the holy one of God.</hi>
+            </p>
+            <p>Men will not eaſily believe that mi<g ref="char:EOLhyphen"/>niſters preaching, whoſe practice they ſee contradicts it.</p>
+            <p>
+               <hi>Cujus vita deſpicitur, reſtat, ut prae<g ref="char:EOLhyphen"/>dicatio contemnatur.</hi>
+            </p>
+            <p>
+               <hi>Loquendi authoritas perditur, quan<g ref="char:EOLhyphen"/>do vox opere non adjuvatur.</hi>
+            </p>
+            <p>
+               <hi>Bene vivendo, &amp; bene docendo, popu<g ref="char:EOLhyphen"/>lum inſtruis, quomodo vivere debeat: bene autem docendo &amp; male vivendo, Deum inſtruis quomodo te debeat con<g ref="char:EOLhyphen"/>demnare.</hi>
+            </p>
+            <pb n="58" facs="tcp:170481:34"/>
+            <p>
+               <hi>Qua libertate peccatum corripere po<g ref="char:EOLhyphen"/>teſt, cum tacitus ipſe ſibi reſpondeat, ea<g ref="char:EOLhyphen"/>dem ſe admiſiſse quae corripit?</hi>
+            </p>
+            <p>
+               <hi>Qua fronte (Patres &amp; Fratres cha<g ref="char:EOLhyphen"/>riſsimi) arguunt culpabiles ipſi culpan<g ref="char:EOLhyphen"/>di? ebrius temulentum, avarus ava<g ref="char:EOLhyphen"/>rum, ſuperbus ſuperbum? Clodius moe<g ref="char:EOLhyphen"/>chum, Catilina let hegum. Comata capi<g ref="char:EOLhyphen"/>ta (dolenda miniſtrorum macula) qua fronte arguant comas protenſas? Caetera quid referam? Pudet haec opprobria nobis, Et dici potuiſſe &amp; non potuiſse refelli.</hi>
+            </p>
+            <p>
+               <hi>Turpe eſt Doctori cum culpa redarguit ipſum.</hi>
+            </p>
+            <p>And therefore in the bowels of our Lord Ieſus Chriſt, I do moſt earneſtly beſeech you to have an eſpeciall care of your converſations, that you may be examples to the flock, of what is good, and not of what is evill.</p>
+            <p>Since we find by ſad experience, that magiſtrates and miniſters are as look<g ref="char:EOLhyphen"/>ing-glaſſes to the places in which they live, by which men dreſſe themſelves, who (falling into ſin) like men in a croud, many fall with them.</p>
+            <p>Mens ſouls being as apt to be infe<g ref="char:EOLhyphen"/>cted
+<pb n="59" facs="tcp:170481:34"/> by ill examples, as their bodies by ill air. <hi>Peter</hi> at <hi>Antioch</hi> diſſembling, miſ<g ref="char:EOLhyphen"/>led <hi>Barnabas.</hi>
+            </p>
+            <p>O let not Gods ordinances ſuffer by our irregularities.</p>
+            <p>In the times of <hi>Eli,</hi> 
+               <note place="margin">1 Sam. 2.17.</note> the oblations were contemned becauſe of the ſins of the Prieſts.</p>
+            <p>Thus the bad lives of able preachers bring a deep diſparagement on Gods ordinances. And therefore, I beſeech you, let us be <hi>walking ſermons,</hi> build<g ref="char:EOLhyphen"/>ing up Gods houſe by our practiſe, as well as preaching, otherwiſe what one ſpake of <hi>Eraſmus</hi> will be true of us, that he was but half a Chriſtian: ſo ſhall we be but half preachers, throw<g ref="char:EOLhyphen"/>ing down with our bad lives more, then our good doctrine can ſet up.</p>
+            <p>God teacheth by his word, and by his works; and ſo ſhould we, other<g ref="char:EOLhyphen"/>wiſe it will be bad with our hearers, but worſe with our ſelves: if we ſpeak like <hi>Balaam</hi>'s aſſe to anothers under<g ref="char:EOLhyphen"/>ſtanding, and not our own, we may peradventure as <hi>Noah</hi>'s carpenters, help build the Ark, as the <hi>Tyrians</hi> and
+<pb n="60" facs="tcp:170481:35"/> 
+               <hi>Sidonians,</hi> bring materials to the tem<g ref="char:EOLhyphen"/>ple, and yet our ſelves be ſhut out, and prove caſt awaies.</p>
+            <p>Let Gods watch-man then ſee to it, that he be <hi>potens verbo, &amp; pius vita,</hi> apt and able to teach, and an example to the flock; joyn both life to learn<g ref="char:EOLhyphen"/>ing, either ſingle will be in a miniſter, as the ſolitary Helena to the marriners, always unhappy: ſuch dead <hi>Amaſa</hi>'s will ſtop Gods people in their paſſage.</p>
+            <p>Having detain'd you thus long, I ſhall preſſe home the three laſt requi<g ref="char:EOLhyphen"/>ſites of a watch-man together, <hi>viz.</hi> prudence, faithfulneſſe, and diligence; and therefore</p>
+            <p>Let me beſeech you to ſhew forth all theſe in the diſcharge of the place where God hath ſet you.</p>
+            <p>Divide the word of God aright, give every one his own portion.</p>
+            <p>Study the ſtate of your charge, that you may apply your ſelves unto them, and be faithfull in delivering whatever meſſage God ſends by you: let not an <hi>Ahab</hi>'s proud look, nor a <hi>Mical</hi>'s ſcoffing tongue divert you, though
+<pb n="61" facs="tcp:170481:35"/> the meſſage be what <hi>Ahijah</hi> ſent to <hi>Ieroboam</hi> by his masked wife, <note place="margin">1 Kin. 14.6.</note> though it ſhould diſpleaſe never ſo much; yet let us reſolve as <hi>Micajah,</hi> though the King himſelf, and four hundred falſe prophets ſpeak otherwiſe; yet to de<g ref="char:EOLhyphen"/>clare only, and all what the Lord com<g ref="char:EOLhyphen"/>mands, though we be, and be thought, as <hi>Ahijah</hi> told <hi>Ieroboam</hi>'s wife, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <note place="margin">Gal. 1.10.</note> Conſidering that Chriſts mi<g ref="char:EOLhyphen"/>niſters muſt not pleaſe men but God.</p>
+            <p>And in all this let us uſe diligence, not ruſh into Gods ſervice hand over head, ſtand in the Pulpit before we have ſate in our ſtudies, or kneeled be<g ref="char:EOLhyphen"/>fore the throne of grace. I beſeech you (Brethren) let us not come unprepa<g ref="char:EOLhyphen"/>red, but firſt hear from Gods mouth before we ſpeak in his name.</p>
+            <p>A due preparation is neceſſary to all ſerious undertakings; wilt thou ſpeak unto thy Prince what thou haſt not before thought of?</p>
+            <p>
+               <hi>Antonii, Cicerones, Pericles, Demo<g ref="char:EOLhyphen"/>ſthenes, pulpita non aſcenderunt, niſi pa<g ref="char:EOLhyphen"/>rati. Alio tempore vult Antonius cogita<g ref="char:EOLhyphen"/>re quid dicat, alio dicere.</hi>
+            </p>
+            <pb n="62" facs="tcp:170481:36"/>
+            <p>
+               <hi>Pericles</hi> being ſpoken to <hi>ex tempore perorare,</hi> anſwered, <hi>non meditatus fui,</hi> and <hi>Demoſthenes, non ſum paratus:</hi> ſhall we then offer unto God, and pro<g ref="char:EOLhyphen"/>poſe unto his Church what coſt us nothing?</p>
+            <p>Be not raſh with thy mouth, when thou entereſt into Gods houſe; but firſt learn, and be aſſured what is Gods mind, before thou come to warn o<g ref="char:EOLhyphen"/>thers of it; and here give me leave to mind you, not to put off your prepara<g ref="char:EOLhyphen"/>tions to ſuch ſtraits of time, which u<g ref="char:EOLhyphen"/>ſually neceſſitates us to feed our peo<g ref="char:EOLhyphen"/>ple with crude, immature, &amp; unconco<g ref="char:EOLhyphen"/>cted proviſions, and many times cauſe an intrenchment upon, if not a profa<g ref="char:EOLhyphen"/>nation of Gods day, by doing what ſhould be our own working daies la<g ref="char:EOLhyphen"/>bour on it. I ſpeak unto wiſe men, judge ye what I ſay.</p>
+            <p>Now to preſſe you to this triple care of prudence, faithfulneſſe and dili<g ref="char:EOLhyphen"/>gence, I ſhall leave with you, and de<g ref="char:EOLhyphen"/>ſire you to conſider a ternary of argu<g ref="char:EOLhyphen"/>ments drawn from theſe three prevai<g ref="char:EOLhyphen"/>ling, powerfull, and commanding
+<pb n="63" facs="tcp:170481:36"/> paſſions and affections of the ſoul.</p>
+            <p>Fear. Hope. Love.</p>
+            <p>By all which we may find the Apoſtle <hi>Paul</hi> urging himſelf unto this duty, and we may and ought to preſſe our ſelves to ours: now as one obſerves, Fear is ſervile, Hope is mercenary, Love is fi<g ref="char:EOLhyphen"/>liall. Hope hath an attractive virtue, and draws us: Fear hath an impulſive, and drives us: Love a compulſive fa<g ref="char:EOLhyphen"/>culty, and ſweetly moves us: Hope hales before, and Fear drives behind; but love like the ſoul, acts within us a naturall motion that is free and con<g ref="char:EOLhyphen"/>ſtant. Now ſince though we are Gods Embaſſadours, yet we are but men, and ſubject to the like paſſions as o<g ref="char:EOLhyphen"/>thers, God ſeeth it fit by arguments drawn from each, and all of theſe to preſſe us to our duty.</p>
+            <p n="1">1. From Fear.</p>
+            <p>Hence the Apoſtle <hi>Paul</hi> preſſeth both him and his hearers to perſwade, and to be perſwaded, <note place="margin">2 Cor. 5.11.</note> as <hi>knowing the terrour of the Lord.</hi>
+            </p>
+            <p>Hence God ſtirs up the prophet in this context to warn, <hi>&amp;c.</hi> for if he did
+<pb n="64" facs="tcp:170481:37"/> not, their bloud ſhould be required at his hands. <note place="margin">Ezek. 1.</note>
+            </p>
+            <p>O Beloved, the bloud of ſouls will lye heavy one day upon the account of careleſſe watch-men.</p>
+            <p>If <hi>Abel</hi>'s bloud lay ſo heavy on <hi>Cain</hi>'s heart, <note place="margin">Gen. 4.</note> that his countenance fell, O how will wretched careleſſe mini<g ref="char:EOLhyphen"/>ſters look God in the face, when he ſhall ask them, where is thy Brother, wher's ſuch and ſuch that I have com<g ref="char:EOLhyphen"/>mitted to thy charge, <note place="margin">Heb. 13.17,</note> and for whom thou muſt account?</p>
+            <p>O Deal not then with your charge, with your flock, as the Oſtrich with her eggs, leave them, and forget that <note place="margin">Iob 39.14,15,16.</note> 
+               <hi>the foot may cruſh them, that the wild beaſt may break them: ſhe is hardened againſt her young ones, as though they were not hers.</hi>
+            </p>
+            <p>Conſider what God threatneth a<g ref="char:EOLhyphen"/>gainſt ſuch idol ſhepherds that leave the flock, wo be unto him: <note place="margin">Zech. 11,17.</note> 
+               <hi>the ſword ſhall be upon his arm, and upon his right eye; his arm ſhall be clean dried up, and his right eye ſhall be utterly darkned.</hi>
+            </p>
+            <p>Since God ſpeaks to every miniſter
+<pb n="65" facs="tcp:170481:37"/> what that man of the ſons of the pro<g ref="char:EOLhyphen"/>phets told <hi>Ahab</hi> was ſpoken unto him. <note place="margin">1 Kin. 20.39.</note> 
+               <hi>Keep that man; if by any means he be miſsing, then ſhall thy life goe for his life.</hi>
+            </p>
+            <p>O how many may ſay to many mi<g ref="char:EOLhyphen"/>niſters concerning their periſht, relati<g ref="char:EOLhyphen"/>ons, as <hi>Martha</hi> did to Chriſt, O Sir, if <hi>you had been here,</hi> if you had been faith<g ref="char:EOLhyphen"/>full, and carefull, and painfull in your charge, <hi>my Brother,</hi> ſiſter, friend <hi>had not died.</hi>
+            </p>
+            <p>Conſider then, I pray you, that dreadfull curſe on him that doth the work of the Lord negligently: <note place="margin">Ier. 4.8.10.</note> what's due to him then that doth it not at all? conſider the threatning in this text, <hi>His bloud will I require.</hi> 'Tis dangerous for watch men to be out of their ſtati<g ref="char:EOLhyphen"/>ons: it's dangerous for ſuch to ſleep. Conſider how it fared with that ſenti<g ref="char:EOLhyphen"/>nell his Generall found ſleeping, he thruſt him through, and left him with this ſarcaſme;
+<q>
+                  <hi>Mortuum inveni, mortuum reliqui.</hi>
+               </q>
+            </p>
+            <p n="2">2. From Hope.</p>
+            <p>Thus the Apoſtle <hi>Paul,</hi> from argu<g ref="char:EOLhyphen"/>ments
+<pb n="66" facs="tcp:170481:38"/> drawn hence, encourageth himſelf from the 13. verſe of the fourth chapter of the 2 <hi>Cor.</hi> to the 10. of the 5. chapter. Now Gods watch-men bave a double hope
+<list>
+                  <item>1. Of ſucceſſe.</item>
+                  <item>2. Of reward.</item>
+               </list>
+            </p>
+            <p n="1">1. Of ſucceſſe; becauſe God is with them in their work.</p>
+            <p>The woman of <hi>Tekoah</hi> 
+               <note place="margin">2 Sam. 14.</note> was ſubtile and powerfull to perſwade and pre<g ref="char:EOLhyphen"/>vail, becauſe the hand of <hi>Ioab</hi> was with her.</p>
+            <p>So are Gods miniſters powerfull to perſwade, to throw down ſtrong holds, to hit the heart, to convince the conſcience, becauſe the hand of God is with them: <note place="margin">1 Cor. 14.24.</note> ſo that thoſe who are convinced, ſhall confeſſe that <hi>God is with them of a truth.</hi>
+            </p>
+            <p>
+               <hi>Cambyſes</hi> being charged with drun<g ref="char:EOLhyphen"/>kenneſſe by <hi>Prexaſpes</hi> a noble Coun<g ref="char:EOLhyphen"/>ſellour, commanded this Counſel<g ref="char:EOLhyphen"/>lours ſon to be ſet before him as a mark, and calling for his bow and ar<g ref="char:EOLhyphen"/>row, ſhot the lad through, and open<g ref="char:EOLhyphen"/>ing of him, found the arrow in his
+<pb n="67" facs="tcp:170481:38"/> heart, asking his father what he thought, the ſorrowfull father anſwe<g ref="char:EOLhyphen"/>red; the Gods cannot ſhoot better.</p>
+            <p>And thus indeed <hi>Peter</hi>'s hearers found, <note place="margin">Acts 2.</note> who having in the beginning charged the Apoſtles with drunken<g ref="char:EOLhyphen"/>neſſe, but at length were hit ſo right, that they found themſelves pricked at the heart, and had good cauſe to ſay, none could ſhoot better.</p>
+            <p>And ſo it is ſtill; however, carnall and ſecure ſinners miſtake, misjudge; yet thoſe that are indeed wrought up<g ref="char:EOLhyphen"/>on, will acknowledge that God was in his word, <note place="margin">1 Cor. 14.25.</note> and with his meſſengers of a truth.</p>
+            <p>Though miniſters many times draw their bows at adventure, as that man that killed <hi>Ahab;</hi> 
+               <note place="margin">1 Kin. 22.34.</note> yet God di<g ref="char:EOLhyphen"/>rects their arrows, <note place="margin">Pſal. 45.5.</note> yea many times in<g ref="char:EOLhyphen"/>to the <hi>heart of Chriſts enemies.</hi>
+            </p>
+            <p n="2">2. Of reward.</p>
+            <p>
+               <note place="margin">Iſa. 49.5.</note> 
+               <hi>Though Iſrael be not gathered, yet ſhall I be glorious.</hi>
+            </p>
+            <p>
+               <note place="margin">Dan. 12.3. Mat. 24.46.</note> 
+               <hi>They that turn many unto righteouſ<g ref="char:EOLhyphen"/>neſſe, ſhall ſhine as the stars for ever. They that be faithfull ſervants ſhall be
+<pb n="68" facs="tcp:170481:39"/> bleſsed, when their maſter comes, and finds them ſo doing.</hi>
+            </p>
+            <p>Conſider.</p>
+            <p n="1">1. God hath honoured miniſters in imploying them in his choiceſt ſer<g ref="char:EOLhyphen"/>vice, as his Embaſſadours, and in ſome ſort to repreſent him. It was an excel<g ref="char:EOLhyphen"/>lent ſpeech of <hi>Luther</hi>'s, that may en<g ref="char:EOLhyphen"/>courage all miniſters in the diſcharge of their duties.</p>
+            <p>
+               <hi>Summa ſummatum haeceſt, &amp; inaeſti<g ref="char:EOLhyphen"/>mabilis gloria conſcientiae noſtrae contra omnem contemptum in mundo, quod Christus nos praedicatores quaſi deos pla<g ref="char:EOLhyphen"/>ne creat; dicendo, qui vos recipit, me patremque meum recipit.</hi> 
+               <note place="margin">Mat. 10.40,41.</note>
+            </p>
+            <p n="2">2. God hath engaged for their pro<g ref="char:EOLhyphen"/>tection, while they doe his work.</p>
+            <p>Chriſt holds <note place="margin">Rev. 1.16.</note> 
+               <hi>the ſtars in his right hand:</hi> dogs may bark at them, but ther's no reaching of them.</p>
+            <p>Satan and his inſtruments cannot harm them without Chriſts commiſ<g ref="char:EOLhyphen"/>ſion: we know that the devil could not enter the <hi>Gadarenes</hi> ſwine, till Chriſt ſuffered them, much leſſe harm Chriſts miniſters.</p>
+            <pb n="69" facs="tcp:170481:39"/>
+            <p n="3">3. God owns their quarrels, revenge all their wrongs.</p>
+            <p>
+               <note place="margin">Pſal. 105.15.</note> 
+               <hi>Touch not mine anointed, do my pro<g ref="char:EOLhyphen"/>phets no harm.</hi>
+            </p>
+            <p>They that do, ſhall be ſure to ſmart for it. <note place="margin">Mat. 25.</note> 
+               <hi>Inaſmuch as you have done it a<g ref="char:EOLhyphen"/>gainſt theſe little ones, you have done it ſaith Chriſt against me.</hi>
+            </p>
+            <p>
+               <hi>David</hi> ſent Embaſſadours to <hi>Hanun,</hi> and he abuſeth them, cuts their gar<g ref="char:EOLhyphen"/>ments, ſhaves their beards: but you know how ſeverely <hi>David</hi> revenged that indignity that was done to them, he brought forth the people, and <note place="margin">2 Sam. 12.31.</note> 
+               <hi>put them under ſaws, and under harrows of iron, and under axes of iron, and made them paſſe through the brick kills.</hi>
+            </p>
+            <p>God now ſends his Embaſſadours unto ſinners, to ſpeak kindly to them, and to proffer terms of peace; but how many are there every where, that cut their garments, ſhave their beards, rob them of their rights, and wrong them in their names, but what will be the iſ<g ref="char:EOLhyphen"/>ſue? ſuch may read it 2 <hi>Chron.</hi> 36.15,16,17. <note place="margin">2 Cro. 36.16.</note> 
+               <hi>They mocked his meſsengers, and deſpiſed his word, and miſuſed his
+<pb n="70" facs="tcp:170481:40"/> prophets, untill the wrath of the Lord a<g ref="char:EOLhyphen"/>roſe againſt them, till there was no reme<g ref="char:EOLhyphen"/>dy,</hi> nor healing.</p>
+            <p n="4">4. God will be their pay-maſter.</p>
+            <p>Their reward is with him, and unto him they are a ſweet ſavour, he will not be unmindfull of any labour of ſuch love.</p>
+            <p>What though we have none or in<g ref="char:EOLhyphen"/>conſiderable reward from men; yet let us know, that both our work is it ſelf a reward, and we are ſure of a good reward, if not here (which yet uſually God affords, he being a good maſter, that delights in the proſperity of his ſervants) yet aſſuredly hereafter, when we ſhall ſhine as the ſtars in the firma<g ref="char:EOLhyphen"/>ment for ever, <note place="margin">2 Cor. 4.17.</note> 
+               <hi>Our light afflicting la<g ref="char:EOLhyphen"/>bour for the preſent, working out for us a farre more exceeding and eternall weight of glorie.</hi>
+            </p>
+            <p>Well then (Reverend Fathers and Brethren) let hope draw us, let fear drive us; but eſpecially let love as the ſoul act within us.</p>
+            <p n="3">3. From love.</p>
+            <p>Let the principle of love act in us,
+<pb n="71" facs="tcp:170481:40"/> and powerfully prevail upon us for the doing our duty.</p>
+            <p n="1">1. Love to God and Chriſt; let that conſtrain us as it did <hi>Paul.</hi> This was Chriſts argument to perſwade <hi>Peter</hi> to feed his ſheep, <hi>loveſt thou me?</hi>
+            </p>
+            <p n="2">2. Love to our charge.</p>
+            <p>The whole armies welfare depends on the watch-mans care, miniſters are ſpirituall fathers, and ſuch have, or at leaſt ſhould have naturall affections.</p>
+            <p>Thus the Apoſtle, <note place="margin">Phil. 1.18.</note> 
+               <hi>God is my record how greatly I long for you all in the bow<g ref="char:EOLhyphen"/>els of Ieſus Chriſt.</hi> O how did his affe<g ref="char:EOLhyphen"/>ctions work within towards his Bre<g ref="char:EOLhyphen"/>thren, when he wiſht himſelf accurſed for their ſakes.</p>
+            <p>Let not us be then as that falſe mo<g ref="char:EOLhyphen"/>ther, that cared not what became of the living child. But put on the bow<g ref="char:EOLhyphen"/>els of a tender mother, that thinks no office too mean, no work too hard, no pains too much, which is for the ne<g ref="char:EOLhyphen"/>ceſſary well-being of her child.</p>
+            <p n="3">3. Love to our ſelves.</p>
+            <p>Let that prevail with us, ſhall we be negligent of our charges, we ſhall in<g ref="char:EOLhyphen"/>deed
+<pb n="72" facs="tcp:170481:41"/> endamage them, but the greateſt harm will be our own: <hi>they ſhall die in their ſins, but their bloud will God re<g ref="char:EOLhyphen"/>quire at our hands,</hi> And ſhall we be vi<g ref="char:EOLhyphen"/>gilant and induſtrious to ſave their ſouls, we ſhall likewiſe ſave <hi>our ſelves, as well as thoſe that hear us.</hi>
+            </p>
+            <p>Well then, let love to God, love to our charge, love to our ſelves, let theſe prevail with us to be diligent, faith<g ref="char:EOLhyphen"/>full, induſtrious in the particular places and charges God hath ſet us in, that ſo we may give up our account with joy at the great day.</p>
+            <p>And now, dear Brethren, ſhall not theſe arguments prevail with us? ſhall not love move us, fear drive us, hope draw us to be men of courage, pru<g ref="char:EOLhyphen"/>dent, faithfull, diligent and induſtrious to feed the flock of Chriſt committed to our charge, and put under our hands, we that perſwade others, O let us ſuffer our ſelves to be perſwaded, let us humble our ſelves for former failings, and in good earneſt ſet our ſelves to work in the Lords harveſt, ſince the harveſt is great, and they that
+<pb n="73" facs="tcp:170481:41"/> labour as they ought, are very few; let us ſtir up the gift of God that is in us, and given to us. O let us not ſtand all the day idle, but firſt hear from God, then warn. Firſt fit and fill our ſelves, that we may be inſtruments to fit and fill others; let it never be ſaid truly of any of us that are Chriſts Embaſſa<g ref="char:EOLhyphen"/>dours, what <hi>Cato</hi> ſcoffingly ſpake of three <hi>Roman</hi> Embaſſadours appointed for <hi>Bythinia:</hi> of whom the one had his head full of ſcars, the other did <hi>ve<g ref="char:EOLhyphen"/>cordia laborare;</hi> the third had the gout in his feet, of theſe <hi>Cato</hi> ſaid, <hi>Romana le<g ref="char:EOLhyphen"/>gatio ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> caput, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, cor, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pedes habet.</hi>
+            </p>
+            <p>It were great pity Gods Embaſſa<g ref="char:EOLhyphen"/>dours ſhould be ſuch without know<g ref="char:EOLhyphen"/>ledge, without affections, without a<g ref="char:EOLhyphen"/>ctivity, who ever heard of blind watch men? deaf and dumb Embaſ<g ref="char:EOLhyphen"/>ſadours? It's true indeed, there were ſons of <hi>Eli</hi> that were ſons of Belial, and the wiſeſt of the people <hi>Ieroboam</hi>'s Prieſts, and indeed the baſeſt of men were good enough to make prieſts of ſuch Gods as were but calves.</p>
+            <p>But what hath God or his truth de<g ref="char:EOLhyphen"/>ſerved?
+<pb n="74" facs="tcp:170481:42"/> God calls for the firſt-born, and indeed the beſt we are or have is too bad to ſerve our God by. But ſince he hath honoured us who are but worms and duſt, ſo far as to make us his watch men and Embaſſadours; let us remember our office, and be care<g ref="char:EOLhyphen"/>full and induſtrious in the faithfull and conſcientious diſcharge of it.</p>
+            <p>Thus far in what hath hitherto been ſaid, I have made bold, according to the charge committed to me to be Gods remembrancer to my Reverend Brethren in the miniſtry.</p>
+            <p>And the good God perſwade us all to act according to theſe counſels, and to ſteer our courſes in our ſeverall pla<g ref="char:EOLhyphen"/>ces, according unto theſe directions, that ſo peace may be upon us as upon Gods Iſrael.</p>
+            <p>And though I have been ſomewhat large in my main work, yet I may not diſmiſſe the congregation without ſome particular inſtructions in refe<g ref="char:EOLhyphen"/>rence to their carriage towards their watch-men. And in this I muſt cut ſhort, only know, that</p>
+            <pb n="75" facs="tcp:170481:42"/>
+            <p>Inſtructions belong to hearers in a two fold reſpect.</p>
+            <p n="1">1. <hi>In genere eſſend;</hi> as they call for practiſe, and ſo indeed all hitherto ſpo<g ref="char:EOLhyphen"/>ken hath a peculiar and proper reſpect unto Gods watch men.</p>
+            <p n="2">2. <hi>In genere cognoſcendi;</hi> as they call for knowledge, and ſo what hath been ſpoken concerns all, even the whole congregation.</p>
+            <p>And I ſhall help them to improve it by theſe three directions.</p>
+            <p>Are Gods miniſters watch men, and ought to be ſo qualified, as you have heard, with courage, underſtan<g ref="char:EOLhyphen"/>ding, prudence, faithfulneſſe, and dili<g ref="char:EOLhyphen"/>gence, then hence learn,
+<list>
+                  <item>1. To eſteem them uſefull.</item>
+                  <item>2. To help them in their work.</item>
+                  <item>3. To regard their warnings.</item>
+               </list>
+            </p>
+            <p n="1">1. Eſteem them uſefull. Apprehend and be convinced of the uſefulneſſe and neceſſity of the miniſteriall employ<g ref="char:EOLhyphen"/>ment: can an army be, and be ſafe with out watch-men? the welfare of the whole camp depends on their care.</p>
+            <p>Hence we find, that miniſters in
+<pb n="76" facs="tcp:170481:43"/> Scripture are ſet forth by thoſe things that are moſt neceſſary: they are called.
+<list>
+                  <item>1. The light of the world. O how ſad a thing is it to be without the Sun!</item>
+                  <item>2. The ſalt of the earth, what can be ſavoury, what can be preſerved without corrupting, if ſalt be wanting?</item>
+               </list>
+            </p>
+            <p>To be left without Gods word, and without Gods watch men, is the greateſt miſery on this ſide hell.</p>
+            <p>The famine of the word is far worſe then the famine of bread.</p>
+            <p>What readier way to ruine, then to be without a watch-man, witneſs <hi>Laiſh,</hi> whoſe watchleſſe ſecurity gave them up as a prey to the roving <hi>Danites.</hi>
+            </p>
+            <p>
+               <note place="margin">Rom. 10.</note> How is it poſſible we ſhould have ſpirituall life, faith, repentance, <hi>&amp;c.</hi> or ſalvation without a preacher?</p>
+            <p>
+               <note place="margin">Mat. 9.31. Mat. 21.43.</note> And therefore the Goſpel is called not only <hi>Evangelium regni,</hi> the Goſpel of the kingdome, but <hi>regnum ipſum,</hi> the kingdome it ſelf.</p>
+            <p>So that the Goſpel being removed, the kingdome of grace and glory are removed too.</p>
+            <p>God having ſo built theſe three
+<pb n="77" facs="tcp:170481:43"/> kingdomes of the <hi>word, Grace, Glory,</hi> as <hi>Marcellus</hi> did in <hi>Rome,</hi> the temples of virtue and honour, that as that of virtue was the threſhold to that of ho<g ref="char:EOLhyphen"/>nour, to note that none can be truly honourable that are not firſt virtuous: ſo the kingdome of the word is the entrance to the kingdome of grace, and the kingdome of grace is the threſhold to the kingdome of glory; none coming to the laſt but by the ſe<g ref="char:EOLhyphen"/>cond, and none ordinarily to the ſe<g ref="char:EOLhyphen"/>cond but by the firſt, ſo miſerable a thing is it to have the word removed from us, in effect to be excluded hea<g ref="char:EOLhyphen"/>ven and happineſſe for ever.</p>
+            <p>And this Satan knows, and there<g ref="char:EOLhyphen"/>fore endeavours what he can to keep people without preachers, and from preaching, doing herein as the Phili<g ref="char:EOLhyphen"/>ſtines did with Iſrael, who would not ſuffer them to have a Smith amongſt them, that ſo being weaponleſſe they might the eaſier be over-maſtered by them.</p>
+            <p>Beware therefore how ye reject and ſlight the word of God: beware how
+<pb n="78" facs="tcp:170481:44"/> ye put it from you, for in ſo doing <note place="margin">Acts 13.46.</note> 
+               <hi>ye judge your ſelves unworthy of eternall life.</hi> When <hi>Saul</hi> rejected Gods coun<g ref="char:EOLhyphen"/>ſell, God rejected him.</p>
+            <p>When <hi>Ahab</hi> hated <hi>Micajah</hi> and <hi>Elijah,</hi> he ſoon periſhed.</p>
+            <p>When <hi>Pharaoh</hi> drove away <hi>Moſes,</hi> his deſtruction was near.</p>
+            <p>What though miniſters are in them<g ref="char:EOLhyphen"/>ſelves but mean and contemptible in<g ref="char:EOLhyphen"/>ſtruments, yet it's Gods <note place="margin">1 Cor. 1.21.</note> 
+               <hi>pleaſure by the fooliſhneſse of preaching to ſave them that believe,</hi> that all the glory may be his own.</p>
+            <p>Hence it is that God uſually works by ſuch weak means, that praiſe can<g ref="char:EOLhyphen"/>not rationally be attributed to.</p>
+            <p>Hence the Apoſtle tells us, <note place="margin">2 Cor. 4.7.</note> 
+               <hi>we have this treaſure in earthen veſſels, that the excellency of the power may be of God, and not of us.</hi>
+            </p>
+            <p>We read in the hiſtory of the <hi>Iudg<g ref="char:EOLhyphen"/>es,</hi> that the <hi>Midianites</hi> were deſtroy<g ref="char:EOLhyphen"/>ed by <hi>Gideons</hi> three hundred ſouldiers, who had nothing but a trumpet on one hand, and pitchers and lamps in the other: and in <hi>Ioſhua,</hi> how <hi>Ierichos</hi>
+               <pb n="79" facs="tcp:170481:44"/> wals were blown down with the prieſts Rams horns, weak means; yet in the hand of God are ſtrong enough to doe what they were commiſſionated for.</p>
+            <p>Learn then not from mans weakneſs to deſpiſe, but from Gods appointment to value the ordinance of the miniſtry.</p>
+            <p>Be convinced of the neceſſity and uſefulneſſe of the preachers employ<g ref="char:EOLhyphen"/>ment, which was the great legacy which Chriſt leaving the world, left unto the earth, <note place="margin">Eph. 4.11.12.</note> who <hi>when he aſcended on high, gave gifts unto men, ſome A<g ref="char:EOLhyphen"/>postles, ſome Prophets, ſome Evangeliſts, ſome paſtours &amp; teachers for the perfect<g ref="char:EOLhyphen"/>ing of the Saints, for the work of the mi<g ref="char:EOLhyphen"/>nistry, for the edifying the body of Chriſt.</hi>
+            </p>
+            <p n="2">2. Help them in their work.</p>
+            <p>If miniſters be watch-men, &amp; ought to be men of courage, faithfull, <hi>&amp;c.</hi> if their work be great and weighty, then</p>
+            <p>Further them in it, encourage them in the doing of it.</p>
+            <p>Say unto them as <hi>Shecaniah</hi> did unto <hi>Ezra,</hi> 
+               <note place="margin">Ezra 10.4.</note> Ariſe, for this matter be<g ref="char:EOLhyphen"/>longeth unto thee, <hi>we alſo will be with thee,</hi> be alſo of good courage, and do it.</p>
+            <pb n="80" facs="tcp:170481:45"/>
+            <p>There are two things I ſhall com<g ref="char:EOLhyphen"/>mend unto you.</p>
+            <p n="1">1. Pray for them: that's your duty that they need, and ſuch as are faithfull much deſire; ſee how earneſt Paul is.</p>
+            <p>
+               <note place="margin">Rom. 15.30.</note> 
+               <hi>Now I beſeech you Brethren, for the Lord Ieſus Chriſt his ſake, and for the love of the Spirit, that you ſtrive toge<g ref="char:EOLhyphen"/>ther with me in your praiers to God for me;</hi> and Again</p>
+            <p>
+               <note place="margin">Eph. 6.18,19.</note> 
+               <hi>Praying alwaies with all prayer and ſupplication in the Spirit, and watching thereunto with all perſeverance and ſup<g ref="char:EOLhyphen"/>plication for all Saints.</hi>
+            </p>
+            <p>
+               <hi>And for me, that utterance may begiven unto me, that I may open my mouth boldly to make known the myſtery of the Goſpel.</hi>
+            </p>
+            <p>And what he had thus importunate<g ref="char:EOLhyphen"/>ly deſired from the <hi>Romans</hi> and <hi>Ephe<g ref="char:EOLhyphen"/>ſians,</hi> he is likewiſe earneſt with the <hi>Theſsalonians,</hi> for</p>
+            <p>
+               <note place="margin">2 Theſſ. 3.1.</note> 
+               <hi>Finally my Brethren, pray for us, that the word of the Lord may have free courſe, and be glorified, even as it is with you.</hi>
+            </p>
+            <p>There are many are ready to com<g ref="char:EOLhyphen"/>plain againſt their preachers, that they
+<pb n="81" facs="tcp:170481:45"/> are dead and dull, and to them unpro<g ref="char:EOLhyphen"/>fitable, but few there are that pray for them, and therefore let me entreat you to take this rule with you.</p>
+            <p>Never ſpeak againſt your miniſters unto men, untill you have ſpoken un<g ref="char:EOLhyphen"/>to God for them.</p>
+            <p>Shall we think to have bleſſings and never beg them? one great reaſon why miniſters labour in vain, &amp; preach ſo unſucceſſefully I am perſwaded is, becauſe their congregations pray no more for them, and therefore know, the more you pray for us, the better we ſhall preach to you.</p>
+            <p n="2">2. Encourage them: ſtir them up, ſay to <hi>Archippus,</hi> 
+               <note place="margin">Col. 4.17.</note> 
+               <hi>take heed to thy miniſtry.</hi>
+            </p>
+            <p>Break not their hearts by your ob<g ref="char:EOLhyphen"/>ſtinacy, who are ſpending their ſpirits for your good.</p>
+            <p>Be not robbing of them of their dues, who are wreſtling with God for your ſouls.</p>
+            <p>
+               <note place="margin">1 Cor. 9.11.</note> 
+               <hi>It is a great matter when they ſow ſpi<g ref="char:EOLhyphen"/>rituals, that they reap carnals?</hi>
+            </p>
+            <p>Conſider, watch-men cannot for<g ref="char:EOLhyphen"/>rage, much leſſe plunder for them<g ref="char:EOLhyphen"/>ſelves
+<pb n="82" facs="tcp:170481:46"/> but muſt keep their ſtations, and ſhall they be ſtarved while they are doing their work? ſhall there be no proviſion made for them? <note place="margin">1 Cor. 9.9.</note> 
+               <hi>Doth God take care for oxen? and ſhall not he that preacheth the Goſpel live of the Goſpel?</hi>
+            </p>
+            <p>Superſtition, Hypocriſy, Idolatry, have enough, but truth goes a beg<g ref="char:EOLhyphen"/>ging. <hi>Iezebel</hi> nouriſheth eight hundred falſe prophets, but <hi>Elijah</hi> flies the kingdome; but bleſſed be God it is not yet ſo amongſt us, and let it never be ſo, though too many deſire it were ſo.</p>
+            <p>O know there's nothing loſt which is laid out for God in the neceſſary maintaining of his Embaſſadours, <note place="margin">Matth. 10.41.</note> 
+               <hi>they who entertain a Prophet in the name of a Prophet, ſhall have a Prophets reward.</hi> That widow that firſt made a Cake for <hi>Eliſha,</hi> her oyl increaſed.</p>
+            <p>Conſider what God ſpeaks in this Caſe. <note place="margin">Mal. 3.10,11,12.</note> 
+               <hi>Bring you all the tithes into the ſtore-houſe, that there may be meat in mine houſe, and prove me herewith, ſaith the Lord of Hoſts; if I will not open to you the windowes of heaven, and pour you out a bleſsing, that there ſhall not be room e<g ref="char:EOLhyphen"/>nough to receive it.</hi>
+            </p>
+            <pb n="83" facs="tcp:170481:46"/>
+            <p>
+               <hi>And I will rebuke the devourer for your ſakes, and he ſhall not deſtroy the fruits of your ground, neither ſhall your vine tree caſt her fruit before the time in the field, ſaith the Loyd of Hoſts.</hi>
+            </p>
+            <p>
+               <hi>And all nations ſhall call you bleſ<g ref="char:EOLhyphen"/>ſed, for ye ſhall be a delightſome land, ſaith the Lord of Hoſts.</hi>
+            </p>
+            <p>And again by <hi>Solomon,</hi> 
+               <note place="margin">Prov. 3.9,10.</note> 
+               <hi>Honour the Lord with all thy ſubstance, and the firſt-fruits of all thin increaſe; ſo ſhall thy barns be filled with plenty, and thy preſſes ſhall burſt out with new wine.</hi>
+            </p>
+            <p>There's nothing loſt by a juſt deal<g ref="char:EOLhyphen"/>ing with, or a liberal bounty to, Gods miniſters.</p>
+            <p n="3">3. Regard their warning.</p>
+            <p>O ſuffer the word of exhortation, <note place="margin">Heb. 13.17.</note> 
+               <hi>obey them that have the rule over you: for they watch for your ſouls.</hi>
+            </p>
+            <p>Let not God's calls, counſels, war<g ref="char:EOLhyphen"/>nings admonitions, be alwayes to no purpoſe.</p>
+            <p>Let not God alwayes ſtretch out his hand to a ſtubborn, rebellious, and gainſaying generation, that provoke him to anger every day.</p>
+            <pb n="84" facs="tcp:170481:47"/>
+            <p>Let not Chriſts complaint be dire<g ref="char:EOLhyphen"/>cted againſt us, as it was againſt the <hi>Iews,</hi> that he would have often gathe<g ref="char:EOLhyphen"/>red us as an hen gathereth her chick<g ref="char:EOLhyphen"/>ens, but we would not, and that we would not come unto him, that we might have life, that he would have healed us, but we would not be healed.</p>
+            <p>We read of <hi>Noah,</hi> that preacher of righteouſneſſe, how he warned the old world a long while, but they took no notice of it: and of <hi>Lot,</hi> how he warn<g ref="char:EOLhyphen"/>ed his ſons in law, but he was unto them as one that mocked.</p>
+            <p>Now what was the iſſue? an inun<g ref="char:EOLhyphen"/>dation of water overwhelmes the one, and God rains down (as it were, hell from heaven) and deſtroies the o<g ref="char:EOLhyphen"/>ther, and hath recorded both as exam<g ref="char:EOLhyphen"/>ples for us, on whom the ends of the world are come, that we may take warning, not to deſpiſe warnings.</p>
+            <p>Let us then be prevailed with to have an eye to the watch tower, and when the beaken is fired, be not ſecure.</p>
+            <p>Let us not hear ſermons which are Gods watch words to admire, much
+<pb n="85" facs="tcp:170481:47"/> leſſe to deride preachers, but to learn our own ſtate, and mend our own conſciences. Conſider,</p>
+            <p>He profiteth moſt by a ſermon, that ſaith, how ill have I lived? not, how well hath this man ſpoken?</p>
+            <p>Let us entertain Gods meſſages that he ſends to warn us, as <hi>David</hi> did, <note place="margin">2 Sam. 12.</note> who humbled himſelf, and acknowledged his ſin, not as <hi>Ahab</hi> did, <note place="margin">1 Kin. 22.27.</note> who ſtorm<g ref="char:EOLhyphen"/>ed at the meſſage, and impriſoned the prophet. As <hi>Peter</hi>'s hearers did, <note place="margin">Act. 2.37.</note> who were pricked at the heart, and cried out, Men and Brethren, what ſhall we do? <hi>viz.</hi> to be ſaved, as the ſailer in the like caſe expreſſed; and <hi>Peter's</hi> anſwer implies.</p>
+            <p>Not as <hi>Stevens</hi> hearers, <note place="margin">Act. 7.54,57,58.</note> who being cut to the heart, gnaſhed on him with their teeth, cried out with a loud voice, ſtopped their eares, and ran up<g ref="char:EOLhyphen"/>on him with one accord, caſt him out of the city, and ſtoned him.</p>
+            <p>Be not like <hi>Herod,</hi> that was well plea<g ref="char:EOLhyphen"/>ſed w<hi rend="sup">th</hi> 
+               <hi>Iohn,</hi> while he preached againſt others, he heard him gladly; but when he touched him on his ſore, reproves
+<pb n="86" facs="tcp:170481:48"/> him for <hi>Herodias,</hi> then <hi>Iohn</hi> ſhall ſooner looſe his head, then <hi>Herod</hi> leave his luſt.</p>
+            <p>The Phariſees could not away with Chriſts teaching when he came home particularly to them, ſo that their con<g ref="char:EOLhyphen"/>ſciences forced them to ſay, <note place="margin">Mat. 21.45.</note> 
+               <hi>In ſo ſay<g ref="char:EOLhyphen"/>ing thou reproveſt us,</hi> and <hi>when they perceived he ſpake of them, they ſought to lay hands on him:</hi> and at another time, <note place="margin">Luke 16.14.</note> 
+               <hi>the Phariſees that were covetous heard theſe things &amp; they derided him.</hi>
+            </p>
+            <p>Thus it is ſtill if preachers beat in the air, and onely preach general no<g ref="char:EOLhyphen"/>tions without deſcending to particu<g ref="char:EOLhyphen"/>lar applications, theſe hearers like them well enough, but if once they come cloſe and ſpeak home, as <hi>Na<g ref="char:EOLhyphen"/>than</hi> to <hi>David,</hi> and <hi>Iohn</hi> to <hi>Herod,</hi> then then the land cannot bear his words, and as they of <hi>Paul,</hi> that they are ready to ſay <hi>Away with ſuch a fellow, It is not fit that he ſhould live; They that turn the world upſide down are come hither alſo.</hi>
+            </p>
+            <p>But (Beloved) if ever you would have the cure wrought, be contented that the plaiſter be applyed to cloſe the ſore, that miniſters ſpeak home
+<pb n="87" facs="tcp:170481:48"/> to your Conſcience, that being con<g ref="char:EOLhyphen"/>vinced, you may ſay that God is in them of a truth.</p>
+            <p>That plaiſter is moſt like to cure that makes the wound ſmart, like then thoſe ſermons beſt that come home cloſeſt to your ſtates and Conſcien<g ref="char:EOLhyphen"/>ces: and ſay as <hi>David,</hi> 
+               <note place="margin">Pſal. 141.5.</note> 
+               <hi>Let the righteous ſmite me, it ſhall be a kindneſſe, &amp; let him reprove me, it ſhall be an excel<g ref="char:EOLhyphen"/>lent oyl which ſhall not break mine head.</hi>
+            </p>
+            <p>Let us attend Miniſters, as deſirous to be better'd by them to learn what's amiſſe, and to amend, to know our danger, and endeavour to eſcape it.</p>
+            <p>Now ſhall we neglect to attend up<g ref="char:EOLhyphen"/>on, and ſhall we ſleight theſe warn<g ref="char:EOLhyphen"/>ings: the Apoſtle tells us <note place="margin">Heb. 2.2.</note> 
+               <hi>there can be no eſcaping,</hi> viz. either the bloud of our own Corruption, the ſnares of Satan, the Iudgements of God, or the dam<g ref="char:EOLhyphen"/>nation of Hell.</p>
+            <p>I ſhall end all with my earneſt de<g ref="char:EOLhyphen"/>ſire unto you, that you would ſeriouſ<g ref="char:EOLhyphen"/>ly conſider how it fared with thoſe <hi>E<g ref="char:EOLhyphen"/>gyptians</hi> whom we read of, who were all warned of the approching tem<g ref="char:EOLhyphen"/>peſts.</p>
+            <pb n="88" facs="tcp:170481:49"/>
+            <p>
+               <note place="margin">Exod. 9.20,21,25</note> 
+               <hi>He that feared the word of the Lord among the ſervants of</hi> Pharaoh, <hi>made his ſervants and cattle flee into the hou<g ref="char:EOLhyphen"/>ſes, and they eſcaped.</hi>
+            </p>
+            <p>
+               <hi>And he that regarded not the word of the Lord, left his ſervants and cattle in the field, and they periſhed.</hi>
+            </p>
+            <p>So will it be in this caſe, if hearers take warning, they ſave their ſouls, if not, they are ſure to miſcarry.</p>
+            <p>However, as for us Miniſters let us be ſure to give warning that wee may ſecure our ſelves that the bloud of our charge be not required at our hands; Let us all have this reſolution (Eſpeci<g ref="char:EOLhyphen"/>ally you my Brethren that are now ſo<g ref="char:EOLhyphen"/>lemnly ſet apart for this work) to ſtand it out to the uttermoſt againſt all op<g ref="char:EOLhyphen"/>poſitions and as that wiſe and valiant ſoldier William the conquerour, who when he had landed his men, burnt his ſhips, caſt away all draw backs, and re<g ref="char:EOLhyphen"/>member that ſolemn ſentence of our ſaviour with which I ſhall conclude.</p>
+            <p>
+               <note place="margin">Luke 9.62.</note> 
+               <hi>No man having put his hand to the plough and looking back, is fit for the Kingdome of God.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
